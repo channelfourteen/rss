@@ -18,6 +18,8 @@
 		<itunes:keywords>cas,garden,ua,p,alumni,university,college</itunes:keywords>
 		<itunes:subtitle>an unofficial podcast from some alumni of that small university in Ortigas.</itunes:subtitle>
 		
+		<!-- DARTH FUCKING VIDA 
+		
 		<item>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:episode>4</itunes:episode>
@@ -32,6 +34,10 @@
 			<pubDate>Wed, 5 May 2021 03:00:00 PDT</pubDate>
 			<itunes:explicit>false</itunes:explicit>
 		</item>
+		
+		-->
+		
+		<!-- MR. ETHICOOL -->
 		
 		<item>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -48,6 +54,8 @@
 			<itunes:explicit>false</itunes:explicit>
 		</item>
 		
+		<!-- THE GMAN -->
+		
 		<item>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:episode>2</itunes:episode>
@@ -62,6 +70,8 @@
 			<pubDate>Tue, 27 Apr 2021 00:22:02 PDT</pubDate>
 			<itunes:explicit>false</itunes:explicit>
 		</item>
+		
+		<!-- INTRO EPISODE -->
 		
 		<item>
 			<itunes:episodeType>full</itunes:episodeType>
