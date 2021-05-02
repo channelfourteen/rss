@@ -1,0 +1,82 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+	<channel>
+		<title>the cas garden</title>
+		<link>http://channelfourteen.com</link>
+		<media:thumbnail url="https://1.bp.blogspot.com/-E_g75FwZNOs/YHVJ94RZc4I/AAAAAAAAA_Q/BWeqKm7ugb4eTwSTUh13IyiEdm_ieeIywCLcBGAsYHQ/s2048/CASGarden2.png"/>
+		<language>en-us</language>
+		<copyright>© 2021 channelfourteen</copyright>
+		<itunes:author>channelfourteen</itunes:author>
+		<description> an unofficial podcast from some alumni of that small university in Ortigas. </description>
+		<itunes:type>episodic</itunes:type>
+		<itunes:owner>
+			<itunes:email>contact@channelfourteen.com</itunes:email>
+			<itunes:name>channelfourteen.com</itunes:name>
+		</itunes:owner>
+		<itunes:category text="Education"> </itunes:category>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:image href="https://1.bp.blogspot.com/-E_g75FwZNOs/YHVJ94RZc4I/AAAAAAAAA_Q/BWeqKm7ugb4eTwSTUh13IyiEdm_ieeIywCLcBGAsYHQ/s2048/CASGarden2.png"/>
+		<itunes:keywords>cas,garden,ua,p,alumni,university,college</itunes:keywords>
+		<itunes:subtitle>an unofficial podcast from some alumni of that small university in Ortigas.</itunes:subtitle>
+		
+		<item>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>4</itunes:episode>
+			<title>The CAS Garden With Vida Gruet</title>
+			<description>Today in the CAS Garden we're joined by Darth Vida.</description>
+			<media:thumbnail url="https://1.bp.blogspot.com/-E_g75FwZNOs/YHVJ94RZc4I/AAAAAAAAA_Q/BWeqKm7ugb4eTwSTUh13IyiEdm_ieeIywCLcBGAsYHQ/s2048/CASGarden2.png" height="512" width="512" />
+			<enclosure
+				length="29688072" 
+				type="audio/mpeg" 
+				url="https://archive.org/download/20210417vidagruet/20210417VidaGruet.mp3" />
+			<guid>https://archive.org/download/20210417vidagruet/20210417VidaGruet.mp3</guid>
+			<pubDate>Wed, 5 May 2021 03:00:00 PDT</pubDate>
+			<itunes:explicit>false</itunes:explicit>
+		</item>
+		
+		<item>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>3</itunes:episode>
+			<title>The CAS Garden With Dean Mejos</title>
+			<description> Today in the CAS Garden we're joined by philosophy teacher Dean Mejos.</description>
+			<media:thumbnail url="https://1.bp.blogspot.com/-E_g75FwZNOs/YHVJ94RZc4I/AAAAAAAAA_Q/BWeqKm7ugb4eTwSTUh13IyiEdm_ieeIywCLcBGAsYHQ/s2048/CASGarden2.png" height="512" width="512"/>
+			<enclosure 
+				length="21913608" 
+				type="audio/mpeg" 
+				url="https://archive.org/download/20210412-dean-mejos/20210412DeanMejos.mp3"/>
+			<guid>https://archive.org/download/20210412-dean-mejos/20210412DeanMejos.mp3</guid>
+			<pubDate>Tue, 27 Apr 2021 00:37:15 PDT</pubDate>
+			<itunes:explicit>false</itunes:explicit>
+		</item>
+		
+		<item>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>2</itunes:episode>
+			<title>The CAS Garden With Gmenier Mendoza</title>
+			<description> Today in the CAS Garden we're joined by Gmenier Mendoza.</description>
+			<media:thumbnail url="https://1.bp.blogspot.com/-E_g75FwZNOs/YHVJ94RZc4I/AAAAAAAAA_Q/BWeqKm7ugb4eTwSTUh13IyiEdm_ieeIywCLcBGAsYHQ/s2048/CASGarden2.png" height="512" width="512"/>
+			<enclosure 
+				length="28947600" 
+				type="audio/mpeg" 
+				url="https://archive.org/download/20210419gmeniermendoza/20210419GmenierMendoza.mp3"/>
+			<guid>https://archive.org/download/20210419gmeniermendoza/20210419GmenierMendoza.mp3</guid>
+			<pubDate>Tue, 27 Apr 2021 00:22:02 PDT</pubDate>
+			<itunes:explicit>false</itunes:explicit>
+		</item>
+		
+		<item>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1</itunes:episode>
+			<title>The CAS Garden - Introductions</title>
+			<description> Hey. Welcome to the CAS Garden.</description>
+			<media:thumbnail url="https://1.bp.blogspot.com/-E_g75FwZNOs/YHVJ94RZc4I/AAAAAAAAA_Q/BWeqKm7ugb4eTwSTUh13IyiEdm_ieeIywCLcBGAsYHQ/s2048/CASGarden2.png" height="512" width="512"/>
+			<enclosure 
+				length="1288188" 
+				type="audio/mpeg" 
+				url="https://archive.org/download/20210101_202104/20210101.mp3"/>
+			<guid>https://archive.org/download/20210101_202104/20210101.mp3</guid>
+			<pubDate>Tue, 27 Apr 2021 00:16:39 PDT</pubDate>
+			<itunes:explicit>false</itunes:explicit>
+		</item>
+		
+	</channel>
+</rss>
