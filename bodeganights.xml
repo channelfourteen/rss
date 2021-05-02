@@ -1,3 +1,43 @@
+<!--
+
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2enclosuresfull.xsl"?>
+<?xml-stylesheet type="text/css" media="screen" href="http://feeds.feedburner.com/~d/styles/itemcontent.css"?>
+<rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0">
+<channel>
+<title>Bodega Nights</title>
+<link>http://www.channelfourteen.com/search/label/Bodega%20Nights</link>
+<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.feedburner.com/bodeganights" />
+<description>A bunch of friends get together now and then. This makes sure it happens. Welcome to Bodega Nights, a podcast out of the Philippines.</description>
+<language>en</language>
+<managingEditor>noreply@blogger.com (joao atienza)</managingEditor>
+<lastBuildDate>Sat, 01 May 2021 18:45:59 PDT</lastBuildDate>
+<generator>Blogger http://www.blogger.com</generator>
+<openSearch:totalResults xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/">115</openSearch:totalResults>
+<openSearch:startIndex xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/">1</openSearch:startIndex>
+<openSearch:itemsPerPage xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/">500</openSearch:itemsPerPage>
+<feedburner:info uri="bodeganights" />
+<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" />
+<media:thumbnail url="http://2.bp.blogspot.com/--FTV2wr2zJg/U3R-5C8ihuI/AAAAAAAAASM/w0qEpMZ3RM0/s1600/bnightsnew.png" />
+<media:keywords>channelfourteen,philippines,bodega</media:keywords>
+<media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Comedy</media:category>
+<itunes:owner>
+<itunes:email>contact@channelfourteen.com</itunes:email>
+<itunes:name>channelfourteen.com</itunes:name>
+</itunes:owner>
+<itunes:author>channelfourteen.com</itunes:author>
+<itunes:explicit>no</itunes:explicit>
+<itunes:image href="http://2.bp.blogspot.com/--FTV2wr2zJg/U3R-5C8ihuI/AAAAAAAAASM/w0qEpMZ3RM0/s1600/bnightsnew.png" />
+<itunes:keywords>channelfourteen,philippines,bodega</itunes:keywords>
+<itunes:subtitle>A bunch of friends get together now and then. This makes sure it happens. Welcome to Bodega Nights, a podcast out of the Philippines.</itunes:subtitle>
+<itunes:summary>A bunch of friends get together now and then. This makes sure it happens. Welcome to Bodega Nights, a podcast out of the Philippines.</itunes:summary>
+<itunes:category text="Comedy" />
+
+-->
+
+
+
+
 
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0">
 	<channel>
@@ -20,27 +60,23 @@
 		<itunes:subtitle>A bunch of friends get together now and then. This makes sure it happens. Welcome to Bodega Nights, a podcast out of the Philippines.</itunes:subtitle>
 		
 		
-				<!-- DARTH FUCKING VIDA 
+				<!-- NEW SEASON!!-->
 		
 		<item>
 			<itunes:episodeType>full</itunes:episodeType>
-			<itunes:episode>4</itunes:episode>
-			<title>The CAS Garden With Vida Gruet</title>
-			<description>Today in the CAS Garden we're joined by Darth Vida.</description>
-			<media:thumbnail url="https://1.bp.blogspot.com/-E_g75FwZNOs/YHVJ94RZc4I/AAAAAAAAA_Q/BWeqKm7ugb4eTwSTUh13IyiEdm_ieeIywCLcBGAsYHQ/s2048/CASGarden2.png" height="512" width="512" />
+			<title>Bodega Nights - The Second Dark and Gritty Reboot</title>
+			<description>Martin and Joao reflect on the past year of Bodega Nights.</description>
+			<media:thumbnail url="http://2.bp.blogspot.com/--FTV2wr2zJg/U3R-5C8ihuI/AAAAAAAAASM/w0qEpMZ3RM0/bnightsnew.png" height="512" width="512" />
 			<enclosure
-				length="29688072" 
+				length="10093932" 
 				type="audio/mpeg" 
-				url="https://archive.org/download/20210417vidagruet/20210417VidaGruet.mp3" />
-			<guid isPermaLink="false">https://archive.org/download/20210417vidagruet/20210417VidaGruet.mp3</guid>
-			<pubDate>Wed, 5 May 2021 03:00:00 PDT</pubDate>
-			<itunes:explicit>false</itunes:explicit>
+				url="https://archive.org/download/20210427newseason/20210427newseason.mp3" />
+			<guid isPermaLink="false">https://archive.org/download/20210427newseason/20210427newseason.mp3</guid>
+			<pubDate>Wed, 5 May 2021 05:00:00 PDT</pubDate>
+			<itunes:explicit>true</itunes:explicit>
 		</item>
 		
-		-->
-		
-		
-		
+	
 		
 <!-- THE OLD STUFF -->
 
