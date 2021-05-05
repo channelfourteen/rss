@@ -18,7 +18,26 @@
 		<itunes:keywords>cas,garden,ua,p,alumni,university,college</itunes:keywords>
 		<itunes:subtitle>an unofficial podcast from some alumni of that small university in Ortigas.</itunes:subtitle>
 		
-		<!-- DARTH FUCKING VIDA 
+		
+		<!-- MIO OF THE BORROMNEANS AND LEON SON OF PECK
+		
+		<item>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>4</itunes:episode>
+			<title>Talking online class with Vida Gruet</title>
+			<description>Today in the CAS Garden, we're joined by Darth Vida Gruet. Originally recorded last year as the second part of a Bodega Nights episode also featuring Javi Laurel. You might want to check that out as well.</description>
+			<media:thumbnail url="https://1.bp.blogspot.com/-E_g75FwZNOs/YHVJ94RZc4I/AAAAAAAAA_Q/BWeqKm7ugb4eTwSTUh13IyiEdm_ieeIywCLcBGAsYHQ/s2048/CASGarden2.png" height="512" width="512" />
+			<enclosure
+				length="29688072" 
+				type="audio/mpeg" 
+				url="https://archive.org/download/20210417vidagruet/20210417VidaGruet.mp3" />
+			<guid isPermaLink="false">https://archive.org/download/20210417vidagruet/20210417VidaGruet.mp3</guid>
+			<pubDate>Wed, 5 May 2021 03:00:00 PDT</pubDate>
+			<itunes:explicit>false</itunes:explicit>
+		</item>		
+		-->
+		
+		<!-- LEON SON OF PECK AND MIO OF THE BORROMNEANS
 		
 		<item>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -35,7 +54,27 @@
 			<itunes:explicit>false</itunes:explicit>
 		</item>
 		
-		-->
+		 -->
+		
+		
+		<!-- DARTH FUCKING VIDA -->
+		
+		<item>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>4</itunes:episode>
+			<title>Talking online class with Vida Gruet</title>
+			<description>Today in the CAS Garden, we're joined by Darth Vida Gruet. Originally recorded last year as the second part of a Bodega Nights episode also featuring Javi Laurel. You might want to check that out as well.</description>
+			<media:thumbnail url="https://1.bp.blogspot.com/-E_g75FwZNOs/YHVJ94RZc4I/AAAAAAAAA_Q/BWeqKm7ugb4eTwSTUh13IyiEdm_ieeIywCLcBGAsYHQ/s2048/CASGarden2.png" height="512" width="512" />
+			<enclosure
+				length="29688072" 
+				type="audio/mpeg" 
+				url="https://archive.org/download/20210417vidagruet/20210417VidaGruet.mp3" />
+			<guid isPermaLink="false">https://archive.org/download/20210417vidagruet/20210417VidaGruet.mp3</guid>
+			<pubDate>Wed, 5 May 2021 03:00:00 PDT</pubDate>
+			<itunes:explicit>false</itunes:explicit>
+		</item>
+		
+
 		
 		<!-- MR. ETHICOOL -->
 		
