@@ -2,7 +2,7 @@
 	<channel>
 		<title>the cas garden</title>
 		<link>http://channelfourteen.com</link>
-		<media:thumbnail url="https://1.bp.blogspot.com/-E_g75FwZNOs/YHVJ94RZc4I/AAAAAAAAA_Q/BWeqKm7ugb4eTwSTUh13IyiEdm_ieeIywCLcBGAsYHQ/s2048/CASGarden2.png"/>
+		<media:thumbnail url="https://1.bp.blogspot.com/-NngtvDyfs5o/YJMoHwNv4HI/AAAAAAAABAc/JCEhw4yBpVIV1xAKa7FRwYMUDxmTi0VLgCLcBGAsYHQ/s2048/ampersand.png"/>
 		<language>en-us</language>
 		<copyright>© 2021 channelfourteen</copyright>
 		<itunes:author>channelfourteen</itunes:author>
@@ -14,20 +14,20 @@
 		</itunes:owner>
 		<itunes:category text="Education"> </itunes:category>
 		<itunes:explicit>false</itunes:explicit>
-		<itunes:image href="https://1.bp.blogspot.com/-E_g75FwZNOs/YHVJ94RZc4I/AAAAAAAAA_Q/BWeqKm7ugb4eTwSTUh13IyiEdm_ieeIywCLcBGAsYHQ/s2048/CASGarden2.png"/>
+		<itunes:image href="https://1.bp.blogspot.com/-NngtvDyfs5o/YJMoHwNv4HI/AAAAAAAABAc/JCEhw4yBpVIV1xAKa7FRwYMUDxmTi0VLgCLcBGAsYHQ/s2048/ampersand.png"/>
 		<itunes:keywords>cas,garden,ua,p,alumni,university,college</itunes:keywords>
 		<itunes:subtitle>an unofficial podcast from some alumni of that small university in Ortigas.</itunes:subtitle>
 		
-		<!--useless comment to check git-->
+		<!--If you've found this, hello. welcome to the guts of the podcast. Here's where you'll find some of the upcoming episodes and plans and whatnot.-->
 		
 		<!-- MIO OF THE BORROMNEANS AND LEON SON OF PECK
 		
 		<item>
 			<itunes:episodeType>full</itunes:episodeType>
-			<itunes:episode>4</itunes:episode>
+			<itunes:episode>6</itunes:episode>
 			<title>Talking online class with Vida Gruet</title>
 			<description>Today in the CAS Garden, we're joined by Darth Vida Gruet. Originally recorded last year as the second part of a Bodega Nights episode also featuring Javi Laurel. You might want to check that out as well.</description>
-			<media:thumbnail url="https://1.bp.blogspot.com/-E_g75FwZNOs/YHVJ94RZc4I/AAAAAAAAA_Q/BWeqKm7ugb4eTwSTUh13IyiEdm_ieeIywCLcBGAsYHQ/s2048/CASGarden2.png" height="512" width="512" />
+			<media:thumbnail url="https://1.bp.blogspot.com/-NngtvDyfs5o/YJMoHwNv4HI/AAAAAAAABAc/JCEhw4yBpVIV1xAKa7FRwYMUDxmTi0VLgCLcBGAsYHQ/s2048/ampersand.png" height="512" width="512" />
 			<enclosure
 				length="29688072" 
 				type="audio/mpeg" 
@@ -42,10 +42,10 @@
 		
 		<item>
 			<itunes:episodeType>full</itunes:episodeType>
-			<itunes:episode>4</itunes:episode>
+			<itunes:episode>5</itunes:episode>
 			<title>Talking online class with Vida Gruet</title>
 			<description>Today in the CAS Garden, we're joined by Darth Vida Gruet. Originally recorded last year as the second part of a Bodega Nights episode also featuring Javi Laurel. You might want to check that out as well.</description>
-			<media:thumbnail url="https://1.bp.blogspot.com/-E_g75FwZNOs/YHVJ94RZc4I/AAAAAAAAA_Q/BWeqKm7ugb4eTwSTUh13IyiEdm_ieeIywCLcBGAsYHQ/s2048/CASGarden2.png" height="512" width="512" />
+			<media:thumbnail url="https://1.bp.blogspot.com/-NngtvDyfs5o/YJMoHwNv4HI/AAAAAAAABAc/JCEhw4yBpVIV1xAKa7FRwYMUDxmTi0VLgCLcBGAsYHQ/s2048/ampersand.png" height="512" width="512" />
 			<enclosure
 				length="29688072" 
 				type="audio/mpeg" 
@@ -57,7 +57,6 @@
 		
 		 -->
 		
-		
 		<!-- DARTH FUCKING VIDA -->
 		
 		<item>
@@ -65,7 +64,7 @@
 			<itunes:episode>4</itunes:episode>
 			<title>Talking online class with Vida Gruet</title>
 			<description>Today in the CAS Garden, we're joined by Darth Vida Gruet. Originally recorded last year as the second part of a Bodega Nights episode also featuring Javi Laurel. You might want to check that out as well.</description>
-			<media:thumbnail url="https://1.bp.blogspot.com/-E_g75FwZNOs/YHVJ94RZc4I/AAAAAAAAA_Q/BWeqKm7ugb4eTwSTUh13IyiEdm_ieeIywCLcBGAsYHQ/s2048/CASGarden2.png" height="512" width="512" />
+			<media:thumbnail url="https://1.bp.blogspot.com/-NngtvDyfs5o/YJMoHwNv4HI/AAAAAAAABAc/JCEhw4yBpVIV1xAKa7FRwYMUDxmTi0VLgCLcBGAsYHQ/s2048/ampersand.png" height="512" width="512" />
 			<enclosure
 				length="29688072" 
 				type="audio/mpeg" 
@@ -75,8 +74,6 @@
 			<itunes:explicit>false</itunes:explicit>
 		</item>
 		
-
-		
 		<!-- MR. ETHICOOL -->
 		
 		<item>
@@ -84,7 +81,7 @@
 			<itunes:episode>3</itunes:episode>
 			<title>The CAS Garden With Dean Mejos</title>
 			<description> Today in the CAS Garden we're joined by philosophy teacher Dean Mejos.</description>
-			<media:thumbnail url="https://1.bp.blogspot.com/-E_g75FwZNOs/YHVJ94RZc4I/AAAAAAAAA_Q/BWeqKm7ugb4eTwSTUh13IyiEdm_ieeIywCLcBGAsYHQ/s2048/CASGarden2.png" height="512" width="512"/>
+			<media:thumbnail url="https://1.bp.blogspot.com/-NngtvDyfs5o/YJMoHwNv4HI/AAAAAAAABAc/JCEhw4yBpVIV1xAKa7FRwYMUDxmTi0VLgCLcBGAsYHQ/s2048/ampersand.png" height="512" width="512"/>
 			<enclosure 
 				length="21913608" 
 				type="audio/mpeg" 
@@ -101,7 +98,7 @@
 			<itunes:episode>2</itunes:episode>
 			<title>The CAS Garden With Gmenier Mendoza</title>
 			<description> Today in the CAS Garden we're joined by Gmenier Mendoza.</description>
-			<media:thumbnail url="https://1.bp.blogspot.com/-E_g75FwZNOs/YHVJ94RZc4I/AAAAAAAAA_Q/BWeqKm7ugb4eTwSTUh13IyiEdm_ieeIywCLcBGAsYHQ/s2048/CASGarden2.png" height="512" width="512"/>
+			<media:thumbnail url="https://1.bp.blogspot.com/-NngtvDyfs5o/YJMoHwNv4HI/AAAAAAAABAc/JCEhw4yBpVIV1xAKa7FRwYMUDxmTi0VLgCLcBGAsYHQ/s2048/ampersand.png" height="512" width="512"/>
 			<enclosure 
 				length="28947600" 
 				type="audio/mpeg" 
@@ -118,7 +115,7 @@
 			<itunes:episode>1</itunes:episode>
 			<title>The CAS Garden - Introductions</title>
 			<description> Hey. Welcome to the CAS Garden.</description>
-			<media:thumbnail url="https://1.bp.blogspot.com/-E_g75FwZNOs/YHVJ94RZc4I/AAAAAAAAA_Q/BWeqKm7ugb4eTwSTUh13IyiEdm_ieeIywCLcBGAsYHQ/s2048/CASGarden2.png" height="512" width="512"/>
+			<media:thumbnail url="https://1.bp.blogspot.com/-NngtvDyfs5o/YJMoHwNv4HI/AAAAAAAABAc/JCEhw4yBpVIV1xAKa7FRwYMUDxmTi0VLgCLcBGAsYHQ/s2048/ampersand.png" height="512" width="512"/>
 			<enclosure 
 				length="1288188" 
 				type="audio/mpeg" 
