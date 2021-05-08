@@ -18,13 +18,36 @@
 		<itunes:keywords>channelfourteen,philippines,bodega</itunes:keywords>
 		<itunes:subtitle>A bunch of friends get together now and then. This makes sure it happens. Welcome to Bodega Nights, a podcast out of the Philippines.</itunes:subtitle>
 		
-		
-				<!-- NEW SEASON!!-->
-		
+<!-- NEW SEASON!!-->
+				
+		<!-- Next episode
 		<item>
 			<itunes:episodeType>full</itunes:episodeType>
 			<title>Bodega Nights - The Second Dark and Gritty Reboot</title>
 			<description>Martin and Joao reflect on the past year of Bodega Nights.</description>
+			<media:thumbnail url="http://2.bp.blogspot.com/--FTV2wr2zJg/U3R-5C8ihuI/AAAAAAAAASM/w0qEpMZ3RM0/bnightsnew.png" height="512" width="512" />
+			<enclosure
+				length="10093932" 
+				type="audio/mpeg" 
+				url="https://archive.org/download/20210427newseason/20210427newseason.mp3" />
+			<guid isPermaLink="false">https://archive.org/download/20210427newseason/20210427newseason.mp3</guid>
+			<pubDate>Sun, 2 May 2021 05:00:00 PDT</pubDate>
+			<itunes:explicit>true</itunes:explicit>
+		</item>		
+		-->
+				
+		
+		<item>
+			<itunes:episodeType>full</itunes:episodeType>
+			<title>Bodega Nights - The Second Dark and Gritty Reboot</title>
+			<description>Martin and Joao reflect on the past year of Bodega Nights. 
+				<![CDATA[
+					<br>
+					<a href="https://podcasts.apple.com/ph/podcast/bodega-nights/id706751888">iTunes</a>
+					<br>
+					<a href="https://open.spotify.com/show/2whcpy0tLKNsFnEE310ati?si=wocDCTp-RIOxJVV4cpIt3g">Spotify</a>
+				]]>
+			</description>
 			<media:thumbnail url="http://2.bp.blogspot.com/--FTV2wr2zJg/U3R-5C8ihuI/AAAAAAAAASM/w0qEpMZ3RM0/bnightsnew.png" height="512" width="512" />
 			<enclosure
 				length="10093932" 
