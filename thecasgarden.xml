@@ -21,6 +21,43 @@
 		<!--If you've found this, hello. welcome to the guts of the podcast. Here's where you'll find some of the upcoming episodes and plans and whatnot.-->
 		
 		
+		<!-- JOEM AND ARNEL (PART 2)
+		
+		<item>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>8</itunes:episode>
+			<title>Talking online class with Vida Gruet</title>
+			<description>Today in the CAS Garden, we're joined by Darth Vida Gruet. Originally recorded last year as the second part of a Bodega Nights episode also featuring Javi Laurel. You might want to check that out as well.</description>
+			<media:thumbnail url="https://1.bp.blogspot.com/-NngtvDyfs5o/YJMoHwNv4HI/AAAAAAAABAc/JCEhw4yBpVIV1xAKa7FRwYMUDxmTi0VLgCLcBGAsYHQ/s2048/ampersand.png" height="512" width="512" />
+			<enclosure
+				length="000" 
+				type="audio/mpeg" 
+				url="https://archive.org/download/20210417vidagruet/20210417VidaGruet.mp3" />
+			<guid isPermaLink="false">https://archive.org/download/20210417vidagruet/20210417VidaGruet.mp3</guid>
+			<pubDate>Wed, 2 June 2021 03:00:00 PDT</pubDate>
+			<itunes:explicit>false</itunes:explicit>
+		</item>
+		-->
+		
+		
+		<!-- ARNEL AND JOEM (PART 1)
+		
+		<item>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>7</itunes:episode>
+			<title>Scholars with Mark Villaluna</title>
+			<description>Today in the cas garden, . Links in the shownotes at http://channelfourteen.com</description>
+			<media:thumbnail url="https://1.bp.blogspot.com/-NngtvDyfs5o/YJMoHwNv4HI/AAAAAAAABAc/JCEhw4yBpVIV1xAKa7FRwYMUDxmTi0VLgCLcBGAsYHQ/s2048/ampersand.png" height="512" width="512" />
+			<enclosure
+				length="19181268" 
+				type="audio/mpeg" 
+				url="https://archive.org/download/20210526markp1/20210526markp1.mp3" />
+			<guid isPermaLink="false">https://archive.org/download/20210526markp1/20210526markp1.mp3</guid>
+			<pubDate>Wed, 26 May 2021 03:00:00 PDT</pubDate>
+			<itunes:explicit>false</itunes:explicit>
+		</item>		
+		-->
+				
 		
 		<!-- MARK VILLALUNA (PART 2)
 		
@@ -41,23 +78,23 @@
 		-->
 		
 		
-		<!-- MARK VILLALUNA (PART 1)
+		<!-- MARK VILLALUNA (PART 1) -->
 		
 		<item>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:episode>7</itunes:episode>
-			<title>Talking online class with Vida Gruet</title>
-			<description>Today in the cas garden, it's the second part of our conversation with alumni and former literature teachers Leon Peckson and Mio Borromeo. Check out Mio's podcast, the Req Room. Links in the shownotes at http://channelfourteen.com</description>
+			<title>Scholars with Mark Villaluna</title>
+			<description>Today in the cas garden, it's the first part of our conversation with Mark Villaluna where he talks about life as a scholar in UA&P, the Humanities, and Legacy. Links in the shownotes at http://channelfourteen.com</description>
 			<media:thumbnail url="https://1.bp.blogspot.com/-NngtvDyfs5o/YJMoHwNv4HI/AAAAAAAABAc/JCEhw4yBpVIV1xAKa7FRwYMUDxmTi0VLgCLcBGAsYHQ/s2048/ampersand.png" height="512" width="512" />
 			<enclosure
-				length="00" 
+				length="19181268" 
 				type="audio/mpeg" 
-				url="https://archive.org/download/20210417vidagruet/20210417VidaGruet.mp3" />
-			<guid isPermaLink="false">https://archive.org/download/20210417vidagruet/20210417VidaGruet.mp3</guid>
+				url="https://archive.org/download/20210526markp1/20210526markp1.mp3" />
+			<guid isPermaLink="false">https://archive.org/download/20210526markp1/20210526markp1.mp3</guid>
 			<pubDate>Wed, 26 May 2021 03:00:00 PDT</pubDate>
 			<itunes:explicit>false</itunes:explicit>
 		</item>		
-		-->
+		
 		
 			
 		<!-- MIO OF THE BORROMNEANS AND LEON SON OF PECK (PART 2) -->
