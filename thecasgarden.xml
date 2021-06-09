@@ -21,42 +21,42 @@
 		<!--If you've found this, hello. welcome to the guts of the podcast. Here's where you'll find some of the upcoming episodes and plans and whatnot.-->
 		
 		
-		<!-- JOEM AND ARNEL (PART 2)
+		<!-- ARNEL JOVEN AND JOEM ANTONIO (PART 2)
 		
 		<item>
 			<itunes:episodeType>full</itunes:episodeType>
-			<itunes:episode>8</itunes:episode>
-			<title>Talking online class with Vida Gruet</title>
-			<description>Today in the CAS Garden, we're joined by Darth Vida Gruet. Originally recorded last year as the second part of a Bodega Nights episode also featuring Javi Laurel. You might want to check that out as well.</description>
+			<itunes:episode>9</itunes:episode>
+			<title>Dr. Joem Antonio and Dr. Arnel Joven</title>
+			<description>Today in the cas garden, it's Joao, Martin, and Miko talking to Dr. Joem Antonio and Dr. Arnel Joven. Links in the shownotes at http://channelfourteen.com</description>
 			<media:thumbnail url="https://1.bp.blogspot.com/-NngtvDyfs5o/YJMoHwNv4HI/AAAAAAAABAc/JCEhw4yBpVIV1xAKa7FRwYMUDxmTi0VLgCLcBGAsYHQ/s2048/ampersand.png" height="512" width="512" />
 			<enclosure
-				length="000" 
+				length="19221103" 
 				type="audio/mpeg" 
-				url="https://archive.org/download/20210417vidagruet/20210417VidaGruet.mp3" />
-			<guid isPermaLink="false">https://archive.org/download/20210417vidagruet/20210417VidaGruet.mp3</guid>
-			<pubDate>Wed, 2 June 2021 03:00:00 PDT</pubDate>
-			<itunes:explicit>false</itunes:explicit>
-		</item>
-		-->
-		
-		
-		<!-- ARNEL AND JOEM (PART 1)
-		
-		<item>
-			<itunes:episodeType>full</itunes:episodeType>
-			<itunes:episode>7</itunes:episode>
-			<title>Scholars with Mark Villaluna</title>
-			<description>Today in the cas garden, . Links in the shownotes at http://channelfourteen.com</description>
-			<media:thumbnail url="https://1.bp.blogspot.com/-NngtvDyfs5o/YJMoHwNv4HI/AAAAAAAABAc/JCEhw4yBpVIV1xAKa7FRwYMUDxmTi0VLgCLcBGAsYHQ/s2048/ampersand.png" height="512" width="512" />
-			<enclosure
-				length="19181268" 
-				type="audio/mpeg" 
-				url="https://archive.org/download/20210526markp1/20210526markp1.mp3" />
-			<guid isPermaLink="false">https://archive.org/download/20210526markp1/20210526markp1.mp3</guid>
-			<pubDate>Wed, 26 May 2021 03:00:00 PDT</pubDate>
+				url="https://archive.org/download/20210509arneljoemp1/20210509arneljoemp1.mp3" />
+			<guid isPermaLink="false">https://archive.org/download/20210509arneljoemp1/20210509arneljoemp1.mp3</guid>
+			<pubDate>Wed, 16 June 2021 03:00:00 PDT</pubDate>
 			<itunes:explicit>false</itunes:explicit>
 		</item>		
 		-->
+		
+		
+		<!-- ARNEL JOVEN AND JOEM ANTONIO (PART 1) -->
+		
+		<item>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>9</itunes:episode>
+			<title>Dr. Joem Antonio and Dr. Arnel Joven</title>
+			<description>Today in the cas garden, it's the first part of Joao, Martin, and Miko's conversation Dr. Joem Antonio and Dr. Arnel Joven. Links in the shownotes at http://channelfourteen.com</description>
+			<media:thumbnail url="https://1.bp.blogspot.com/-NngtvDyfs5o/YJMoHwNv4HI/AAAAAAAABAc/JCEhw4yBpVIV1xAKa7FRwYMUDxmTi0VLgCLcBGAsYHQ/s2048/ampersand.png" height="512" width="512" />
+			<enclosure
+				length="19221103" 
+				type="audio/mpeg" 
+				url="https://archive.org/download/20210509arneljoemp1/20210509arneljoemp1.mp3" />
+			<guid isPermaLink="false">https://archive.org/download/20210509arneljoemp1/20210509arneljoemp1.mp3</guid>
+			<pubDate>Wed, 9 June 2021 03:00:00 PDT</pubDate>
+			<itunes:explicit>false</itunes:explicit>
+		</item>		
+
 				
 		
 		<!-- MARK VILLALUNA (PART 2) -->
