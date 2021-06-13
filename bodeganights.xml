@@ -19,22 +19,71 @@
 		<itunes:subtitle>A bunch of friends get together now and then. This makes sure it happens. Welcome to Bodega Nights, a podcast out of the Philippines.</itunes:subtitle>
 		
 <!-- NEW SEASON!!-->
-				
+
 		<!-- Next episode
 		<item>
 			<itunes:episodeType>full</itunes:episodeType>
-			<title>Bodega Nights - The Second Dark and Gritty Reboot</title>
-			<description>Martin and Joao reflect on the past year of Bodega Nights.</description>
-			
+			<title>Bodega Nights - Norm is Back, We Have an Episode</title>
+			<description>After a bit of a hiatus, Norm is back. Something comes up for Joao midway. Martin is Martin. A bunch of friends get together every now and then. This podcast makes sure it happens. Welcome to Bodega Nights. More at <![CDATA[ <a href="http://channelfourteen.com">http://channelfourteen.com</a> ]]></description>
 			<enclosure
-				length="10093932" 
+				length="15847704" 
 				type="audio/mpeg" 
-				url="https://archive.org/download/20210427newseason/20210427newseason.mp3" />
-			<guid isPermaLink="false">https://archive.org/download/20210427newseason/20210427newseason.mp3</guid>
-			<pubDate>Sun, 2 May 2021 05:00:00 PDT</pubDate>
+				url="https://archive.org/download/20210606normback/20210606normback.mp3" />
+			<guid isPermaLink="false">https://archive.org/download/20210606normback/20210606normback.mp3</guid>
+			<pubDate>Sun, 13 June 2021 05:00:00 PDT</pubDate>
 			<itunes:explicit>true</itunes:explicit>
+		</item>	
 		</item>		
 		-->
+	
+	
+		<!-- Next episode
+		<item>
+			<itunes:episodeType>full</itunes:episodeType>
+			<title>Bodega Nights - Norm is Back, We Have an Episode</title>
+			<description>After a bit of a hiatus, Norm is back. Something comes up for Joao midway. Martin is Martin. A bunch of friends get together every now and then. This podcast makes sure it happens. Welcome to Bodega Nights. More at <![CDATA[ <a href="http://channelfourteen.com">http://channelfourteen.com</a> ]]></description>
+			<enclosure
+				length="15847704" 
+				type="audio/mpeg" 
+				url="https://archive.org/download/20210606normback/20210606normback.mp3" />
+			<guid isPermaLink="false">https://archive.org/download/20210606normback/20210606normback.mp3</guid>
+			<pubDate>Sun, 13 June 2021 05:00:00 PDT</pubDate>
+			<itunes:explicit>true</itunes:explicit>
+		</item>	
+		</item>		
+		-->
+		
+		
+		<!-- Next episode
+		<item>
+			<itunes:episodeType>full</itunes:episodeType>
+			<title>Bodega Nights - Norm is Back, We Have an Episode</title>
+			<description>After a bit of a hiatus, Norm is back. Something comes up for Joao midway. Martin is Martin. A bunch of friends get together every now and then. This podcast makes sure it happens. Welcome to Bodega Nights. More at <![CDATA[ <a href="http://channelfourteen.com">http://channelfourteen.com</a> ]]></description>
+			<enclosure
+				length="15847704" 
+				type="audio/mpeg" 
+				url="https://archive.org/download/20210606normback/20210606normback.mp3" />
+			<guid isPermaLink="false">https://archive.org/download/20210606normback/20210606normback.mp3</guid>
+			<pubDate>Sun, 13 June 2021 05:00:00 PDT</pubDate>
+			<itunes:explicit>true</itunes:explicit>
+		</item>			
+		-->		
+					
+		<!-- Norm Back -->
+		
+		<item>
+			<itunes:episodeType>full</itunes:episodeType>
+			<title>Bodega Nights - Norm is Back</title>
+			<description>After a bit of a hiatus, Norm is back. Something comes up for Joao midway. Martin is Martin. A bunch of friends get together every now and then. This podcast makes sure it happens. Welcome to Bodega Nights. More at <![CDATA[ <a href="http://channelfourteen.com">http://channelfourteen.com</a> ]]></description>
+			<enclosure
+				length="15847704" 
+				type="audio/mpeg" 
+				url="https://archive.org/download/20210606normback/20210606normback.mp3" />
+			<guid isPermaLink="false">https://archive.org/download/20210606normback/20210606normback.mp3</guid>
+			<pubDate>Sun, 13 June 2021 05:00:00 PDT</pubDate>
+			<itunes:explicit>true</itunes:explicit>
+		</item>		
+	
 				
 		
 		<item>
