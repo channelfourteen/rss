@@ -14,7 +14,7 @@
 		</itunes:owner>
 		<itunes:category text="Society &amp; Culture" /> 
 		<itunes:category text="Leisure"> 
-		<itunes:category text="Comedy"> 
+		<itunes:category text="Comedy"> </itunes:category>
 		<itunes:explicit>true</itunes:explicit>
 		<itunes:image href="http://2.bp.blogspot.com/--FTV2wr2zJg/U3R-5C8ihuI/AAAAAAAAASM/w0qEpMZ3RM0/s1600/bnightsnew.png" />
 		<itunes:keywords>channelfourteen,philippines,bodega</itunes:keywords>
