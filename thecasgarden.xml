@@ -21,8 +21,7 @@
 		
 		<!--If you've found this, hello. welcome to the guts of the podcast. Here's where you'll find some of the upcoming episodes and plans and whatnot.-->
 		
-		
-		<!-- ARNEL JOVEN AND JOEM ANTONIO (PART 2)
+				<!-- CHEESE PART TWO
 		
 		<item>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -39,8 +38,44 @@
 			<itunes:explicit>false</itunes:explicit>
 		</item>	
 		
-		Seeing if the connection is still there	
 		-->
+		
+				<!-- CHEESE PART ONE
+		
+		<item>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>9</itunes:episode>
+			<title>Dr. Joem Antonio and Dr. Arnel Joven</title>
+			<description>Today in the cas garden, it's Joao, Martin, and Miko talking to Dr. Joem Antonio and Dr. Arnel Joven. Links in the shownotes at http://channelfourteen.com</description>
+			<media:thumbnail url="https://1.bp.blogspot.com/-NngtvDyfs5o/YJMoHwNv4HI/AAAAAAAABAc/JCEhw4yBpVIV1xAKa7FRwYMUDxmTi0VLgCLcBGAsYHQ/s2048/ampersand.png" height="512" width="512" />
+			<enclosure
+				length="19221103" 
+				type="audio/mpeg" 
+				url="https://archive.org/download/20210509arneljoemp1/20210509arneljoemp1.mp3" />
+			<guid isPermaLink="false">https://archive.org/download/20210509arneljoemp1/20210509arneljoemp1.mp3</guid>
+			<pubDate>Wed, 16 June 2021 03:00:00 PDT</pubDate>
+			<itunes:explicit>false</itunes:explicit>
+		</item>	
+	
+		-->
+		
+		
+		<!-- ARNEL JOVEN AND JOEM ANTONIO (PART 2) -->
+		
+		<item>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>10</itunes:episode>
+			<title>Dr. Arnel Joven and Dr. Joem Antonio</title>
+			<description>Today in the cas garden, it's the second part of Joao, Martin, and Miko's conversation Dr. Joem Antonio and Dr. Arnel Joven. Links in the shownotes at http://channelfourteen.com</description>
+			<media:thumbnail url="https://1.bp.blogspot.com/-NngtvDyfs5o/YJMoHwNv4HI/AAAAAAAABAc/JCEhw4yBpVIV1xAKa7FRwYMUDxmTi0VLgCLcBGAsYHQ/s2048/ampersand.png" height="512" width="512" />
+			<enclosure
+				length="18313452" 
+				type="audio/mpeg" 
+				url="https://archive.org/download/20210509arneljoemp2/20210509arneljoemp2.mp3" />
+			<guid isPermaLink="false">https://archive.org/download/20210509arneljoemp2/20210509arneljoemp2.mp3</guid>
+			<pubDate>Wed, 16 June 2021 03:00:00 PDT</pubDate>
+			<itunes:explicit>false</itunes:explicit>
+		</item>	
 		
 		
 		<!-- ARNEL JOVEN AND JOEM ANTONIO (PART 1) -->
