@@ -42,24 +42,23 @@
 		-->
 		
 		
-		<!-- CHEESE PART ONE
+		<!-- CHEESE PART ONE -->
 		
 		<item>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:episode>13</itunes:episode>
-			<title>Life as a Teacher with Yela Laguzad</title>
-			<description>Today in the cas garden, it's Joao, Martin, and Miko talking to Dr. Joem Antonio and Dr. Arnel Joven. Links in the shownotes at http://channelfourteen.com</description>
+			<title>University Theater and the UA&#38;P Journey with Luis Cheese Mendez</title>
+			<description>Today in the cas garden, it's the first part of our conversation with Cheese Mendez where we talk about the UA&#38;P journey and stint in University theater. And yes, listener discretion is advised. Links in the shownotes at <![CDATA[ <a href="http://channelfourteen.com">http://channelfourteen.com</a> ]]></description>
 			<media:thumbnail url="https://1.bp.blogspot.com/-NngtvDyfs5o/YJMoHwNv4HI/AAAAAAAABAc/JCEhw4yBpVIV1xAKa7FRwYMUDxmTi0VLgCLcBGAsYHQ/s2048/ampersand.png" height="512" width="512" />
 			<enclosure
-				length="19221103" 
+				length="24566977" 
 				type="audio/mpeg" 
-				url="https://archive.org/download/20210509arneljoemp1/20210509arneljoemp1.mp3" />
-			<guid isPermaLink="false">https://archive.org/download/20210509arneljoemp1/20210509arneljoemp1.mp3</guid>
+				url="https://archive.org/download/20210627cheesep1/20210627cheesep1.mp3" />
+			<guid isPermaLink="false">https://archive.org/download/20210627cheesep1/20210627cheesep1.mp3</guid>
 			<pubDate>Wed, 7 July 2021 03:00:00 PDT</pubDate>
 			<itunes:explicit>true</itunes:explicit>
 		</item>	
 		
-		-->
 		
 		
 		<!-- YELA PART TWO -->
