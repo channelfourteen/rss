@@ -2,7 +2,7 @@
 	<channel>
 		<title>Bodega Nights</title>
 		<link>http://www.channelfourteen.com/search/label/Bodega%20Nights</link>
-		<media:thumbnail url="http://2.bp.blogspot.com/--FTV2wr2zJg/U3R-5C8ihuI/AAAAAAAAASM/w0qEpMZ3RM0/s1600/bnightsnew.png" />
+		<media:thumbnail url="http://2.bp.blogspot.com/--FTV2wr2zJg/U3R-5C8ihuI/AAAAAAAAASM/w0qEpMZ3RM0/s800/bnightsnew.png" />
 		<language>en-us</language>
 		<copyright>© 2021 channelfourteen</copyright>
 		<itunes:author>channelfourteen</itunes:author>
@@ -56,20 +56,20 @@
 		-->
 		
 		
-		<!-- Next episode
+		<!-- Sportsball -->	
 		<item>
 			<itunes:episodeType>full</itunes:episodeType>
-			<title>Bodega Nights - Norm is Back, We Have an Episode</title>
-			<description>After a bit of a hiatus, Norm is back. Something comes up for Joao midway. Martin is Martin. A bunch of friends get together every now and then. This podcast makes sure it happens. Welcome to Bodega Nights. More at <![CDATA[ <a href="http://channelfourteen.com">http://channelfourteen.com</a> ]]></description>
+			<title>Bodega Nights - Sportsball Talk</title>
+			<description>A bunch of friends get together every now and then. This podcast makes sure it happens. Welcome to Bodega Nights. More at <![CDATA[ <a href="http://channelfourteen.com">http://channelfourteen.com</a> ]]></description>
 			<enclosure
-				length="15847704" 
+				length="18929808" 
 				type="audio/mpeg" 
-				url="https://archive.org/download/20210606normback/20210606normback.mp3" />
-			<guid isPermaLink="false">https://archive.org/download/20210606normback/20210606normback.mp3</guid>
-			<pubDate>Sun, 13 June 2021 05:00:00 PDT</pubDate>
+				url="https://archive.org/download/20210704sportsball/20210704sportsball.mp3" />
+			<guid isPermaLink="false">https://archive.org/download/20210704sportsball/20210704sportsball.mp3</guid>
+			<pubDate>Thu, 22 July 2021 05:00:00 PDT</pubDate>
 			<itunes:explicit>true</itunes:explicit>
 		</item>			
-		-->		
+	
 					
 		<!-- Norm Back -->
 		
@@ -86,7 +86,7 @@
 			<itunes:explicit>true</itunes:explicit>
 		</item>		
 	
-				
+		<!-- Reboot -->		
 		
 		<item>
 			<itunes:episodeType>full</itunes:episodeType>
