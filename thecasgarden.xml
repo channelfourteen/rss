@@ -21,7 +21,43 @@
 		
 		<!--If you've found this, hello. welcome to the guts of the podcast. Here's where you'll find some of the upcoming episodes and plans and whatnot.-->
 		
-				
+		<!-- DAVE AND RIA PART TWO
+		
+		<item>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>24</itunes:episode>
+			<title>Life in UA&#38;P Poleco with Esther Suson</title>
+			<description>Today in the cas garden, Esther Suson talks about her time as a Poleco student in UA&#38;P. Links in the shownotes at <![CDATA[ <a href="http://channelfourteen.com">http://channelfourteen.com</a> ]]></description>
+			<media:thumbnail url="https://1.bp.blogspot.com/-NngtvDyfs5o/YJMoHwNv4HI/AAAAAAAABAc/JCEhw4yBpVIV1xAKa7FRwYMUDxmTi0VLgCLcBGAsYHQ/s2048/ampersand.png" height="512" width="512" />
+			<enclosure
+				length="21776908" 
+				type="audio/mpeg" 
+				url="https://archive.org/download/20210718joelp2/20210718joelp2.mp3" />
+			<guid isPermaLink="false">https://archive.org/download/20210718joelp2/20210718joelp2.mp3</guid>
+			<pubDate>Wed, 6 October 2021 03:00:00 PDT</pubDate>
+			<itunes:explicit>false</itunes:explicit>
+		</item>		
+		
+		-->			
+		<!-- DAVE AND RIA PART ONE
+		
+		<item>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>24</itunes:episode>
+			<title>Life in UA&#38;P Poleco with Esther Suson</title>
+			<description>Today in the cas garden, Esther Suson talks about her time as a Poleco student in UA&#38;P. Links in the shownotes at <![CDATA[ <a href="http://channelfourteen.com">http://channelfourteen.com</a> ]]></description>
+			<media:thumbnail url="https://1.bp.blogspot.com/-NngtvDyfs5o/YJMoHwNv4HI/AAAAAAAABAc/JCEhw4yBpVIV1xAKa7FRwYMUDxmTi0VLgCLcBGAsYHQ/s2048/ampersand.png" height="512" width="512" />
+			<enclosure
+				length="21776908" 
+				type="audio/mpeg" 
+				url="https://archive.org/download/20210718joelp2/20210718joelp2.mp3" />
+			<guid isPermaLink="false">https://archive.org/download/20210718joelp2/20210718joelp2.mp3</guid>
+			<pubDate>Wed, 29 September 2021 03:00:00 PDT</pubDate>
+			<itunes:explicit>false</itunes:explicit>
+		</item>		
+		
+		-->	
+			
 		<!-- LOLO PART TWO
 		
 		<item>
@@ -35,7 +71,7 @@
 				type="audio/mpeg" 
 				url="https://archive.org/download/20210718joelp2/20210718joelp2.mp3" />
 			<guid isPermaLink="false">https://archive.org/download/20210718joelp2/20210718joelp2.mp3</guid>
-			<pubDate>Wed, 25 August 2021 03:00:00 PDT</pubDate>
+			<pubDate>Wed, 22 September 2021 03:00:00 PDT</pubDate>
 			<itunes:explicit>false</itunes:explicit>
 		</item>		
 		
@@ -56,31 +92,31 @@
 				type="audio/mpeg" 
 				url="https://archive.org/download/20210718joelp2/20210718joelp2.mp3" />
 			<guid isPermaLink="false">https://archive.org/download/20210718joelp2/20210718joelp2.mp3</guid>
-			<pubDate>Wed, 25 August 2021 03:00:00 PDT</pubDate>
+			<pubDate>Wed, 15 September 2021 03:00:00 PDT</pubDate>
 			<itunes:explicit>false</itunes:explicit>
 		</item>		
 		
 		-->	
 		
 		
-		<!-- ERIN PART TWO
+		<!-- ERIN PART TWO -->
 
 		<item>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:episode>22</itunes:episode>
-			<title>Life in UA&#38;P Poleco with Esther Suson</title>
-			<description>Today in the cas garden, Esther Suson talks about her time as a Poleco student in UA&#38;P. Links in the shownotes at <![CDATA[ <a href="http://channelfourteen.com">http://channelfourteen.com</a> ]]></description>
+			<title>Work, Motherhood, and Life in Bacolod with Erin Locsin Esteleydes</title>
+			<description>>Today in the cas garden, Erin Locsin Esteleydes talks about life after UA&amp;P, including work, theater, starting a family, and argi-business among other things.. Links in the shownotes at <![CDATA[ <a href="http://channelfourteen.com">http://channelfourteen.com</a> ]]></description>
 			<media:thumbnail url="https://1.bp.blogspot.com/-NngtvDyfs5o/YJMoHwNv4HI/AAAAAAAABAc/JCEhw4yBpVIV1xAKa7FRwYMUDxmTi0VLgCLcBGAsYHQ/s2048/ampersand.png" height="512" width="512" />
 			<enclosure
-				length="21776908" 
+				length="29058633" 
 				type="audio/mpeg" 
-				url="https://archive.org/download/20210718joelp2/20210718joelp2.mp3" />
-			<guid isPermaLink="false">https://archive.org/download/20210718joelp2/20210718joelp2.mp3</guid>
-			<pubDate>Wed, 25 August 2021 03:00:00 PDT</pubDate>
+				url="https://archive.org/download/20210801erinp2/20210801erinp2.mp3" />
+			<guid isPermaLink="false">https://archive.org/download/20210801erinp2/20210801erinp2.mp3</guid>
+			<pubDate>Wed, 8 September 2021 03:00:00 PDT</pubDate>
 			<itunes:explicit>false</itunes:explicit>
 		</item>		
 		
-		-->	
+			
 		
 		<!-- ERIN PART ONE -->	
 		
