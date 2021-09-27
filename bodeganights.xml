@@ -39,21 +39,21 @@
 		-->
 	
 	
-		<!-- Next episode
+		<!-- Next episode -->
 		<item>
 			<itunes:episodeType>full</itunes:episodeType>
-			<title>Bodega Nights - Norm is Back, We Have an Episode</title>
-			<description>After a bit of a hiatus, Norm is back. Something comes up for Joao midway. Martin is Martin. A bunch of friends get together every now and then. This podcast makes sure it happens. Welcome to Bodega Nights. More at <![CDATA[ <a href="http://channelfourteen.com">http://channelfourteen.com</a> ]]></description>
+			<title>Bodega Nights - Koi, Film Editing, Star Wars</title>
+			<description>. A bunch of friends get together every now and then. This podcast makes sure it happens. Welcome to Bodega Nights. More at <![CDATA[ <a href="http://channelfourteen.com">http://channelfourteen.com</a> ]]></description>
 			<enclosure
-				length="15847704" 
+				length="21873791" 
 				type="audio/mpeg" 
-				url="https://archive.org/download/20210606normback/20210606normback.mp3" />
-			<guid isPermaLink="false">https://archive.org/download/20210606normback/20210606normback.mp3</guid>
-			<pubDate>Sun, 13 June 2021 05:00:00 PDT</pubDate>
+				url="https://archive.org/download/20210926banana/20210926banana.mp3" />
+			<guid isPermaLink="false">https://archive.org/download/20210926banana/20210926banana.mp3</guid>
+			<pubDate>Mon, 27 September 2021 05:00:00 PDT</pubDate>
 			<itunes:explicit>true</itunes:explicit>
 		</item>	
 		</item>		
-		-->
+	
 		
 		
 		<!-- Sportsball -->	
