@@ -111,20 +111,20 @@
 		</item>		
 		-->
 		
-				<!-- Next episode
+				<!-- Next episode	-->
 		<item>
 			<itunes:episodeType>full</itunes:episodeType>
-			<title>Bodega Nights - Koi, Film Editing, Star Wars</title>
+			<title>Bodega Nights - Games, Bond</title>
 			<description>. A bunch of friends get together every now and then. This podcast makes sure it happens. Welcome to Bodega Nights. More at <![CDATA[ <a href="http://channelfourteen.com">http://channelfourteen.com</a> ]]></description>
 			<enclosure
-				length="21873791" 
+				length="38781774" 
 				type="audio/mpeg" 
-				url="https://archive.org/download/20210926banana/20210926banana.mp3" />
-			<guid isPermaLink="false">https://archive.org/download/20210926banana/20210926banana.mp3</guid>
-			<pubDate>Mon, 27 September 2021 05:00:00 PDT</pubDate>
+				url="https://archive.org/download/20211114gamesbond/20211114gamesbond.mp3" />
+			<guid isPermaLink="false">https://archive.org/download/20211114gamesbond/20211114gamesbond.mp3</guid>
+			<pubDate>Mon, 29 November 2021 05:00:00 PDT</pubDate>
 			<itunes:explicit>true</itunes:explicit>
 		</item>		
-		-->
+	
 		
 				<!-- Next episode -->
 		<item>
