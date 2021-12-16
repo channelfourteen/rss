@@ -61,31 +61,31 @@
 		-->	
 		
 
-		<!-- JAM ALAS PART TWO
+		<!-- JAM ALAS PART TWO -->	
 		
 		<item>
 			<itunes:episodeType>full</itunes:episodeType>
-			<itunes:episode>30</itunes:episode>
-			<title>Life in UA&#38;P Poleco with Esther Suson</title>
-			<description>Today in the cas garden, Esther Suson talks about her time as a Poleco student in UA&#38;P. Links in the shownotes at <![CDATA[ <a href="http://channelfourteen.com">http://channelfourteen.com</a> ]]></description>
+			<itunes:episode>32</itunes:episode>
+			<title>Group Yourselves Into a Podcast: Life After UA&#38;P With Jam Alas</title>
+			<description>Today in the cas garden, Jam Alas talks about dropping the JJ at Magic 89.9, memorable interviews, and the fire nation attacking. Links in the shownotes at <![CDATA[ <a href="http://channelfourteen.com">http://channelfourteen.com</a> ]]></description>
 			<media:thumbnail url="https://1.bp.blogspot.com/-NngtvDyfs5o/YJMoHwNv4HI/AAAAAAAABAc/JCEhw4yBpVIV1xAKa7FRwYMUDxmTi0VLgCLcBGAsYHQ/s2048/ampersand.png" height="512" width="512" />
 			<enclosure
-				length="21776908" 
+				length="18018704" 
 				type="audio/mpeg" 
-				url="https://archive.org/download/20210718joelp2/20210718joelp2.mp3" />
-			<guid isPermaLink="false">https://archive.org/download/20210718joelp2/20210718joelp2.mp3</guid>
-			<pubDate>Wed, 10 October 2021 03:00:00 PDT</pubDate>
+				url="https://archive.org/download/20211017jamp2/20211017jamp2.mp3" />
+			<guid isPermaLink="false">https://archive.org/download/20211017jamp2/20211017jamp2.mp3</guid>
+			<pubDate>Wed, 16 December 2021 03:00:00 PDT</pubDate>
 			<itunes:explicit>false</itunes:explicit>
 		</item>		
 		
-		-->	
+	
 		
 		
 		<!-- JAM ALAS PART ONE 	-->	
 		
 		<item>
 			<itunes:episodeType>full</itunes:episodeType>
-			<itunes:episode>30</itunes:episode>
+			<itunes:episode>31</itunes:episode>
 			<title>It Was a Lot More Fun Than Was Advertised: UA&#38;P With Jam Alas</title>
 			<description>Today in the cas garden, Jam Alas talks about her time as a student in UA&#38;P IMC and being a student jock in Magic 89.9. Links in the shownotes at <![CDATA[ <a href="http://channelfourteen.com">http://channelfourteen.com</a> ]]></description>
 			<media:thumbnail url="https://1.bp.blogspot.com/-NngtvDyfs5o/YJMoHwNv4HI/AAAAAAAABAc/JCEhw4yBpVIV1xAKa7FRwYMUDxmTi0VLgCLcBGAsYHQ/s2048/ampersand.png" height="512" width="512" />
