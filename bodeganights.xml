@@ -79,23 +79,22 @@
 		</item>		
 		-->
 		
-			<!-- Next episode
+
 		<item>
 			<itunes:episodeType>full</itunes:episodeType>
-			<title>Bodega Nights - Koi, Film Editing, Star Wars</title>
+			<title>Bodega Nights - Crepes, Flooding, FDTD</title>
 			<description>. A bunch of friends get together every now and then. This podcast makes sure it happens. Welcome to Bodega Nights. More at <![CDATA[ <a href="http://channelfourteen.com">http://channelfourteen.com</a> ]]></description>
 			<enclosure
-				length="21873791" 
+				length="9047027" 
 				type="audio/mpeg" 
-				url="https://archive.org/download/20210926banana/20210926banana.mp3" />
-			<guid isPermaLink="false">https://archive.org/download/20210926banana/20210926banana.mp3</guid>
-			<pubDate>Mon, 27 September 2021 05:00:00 PDT</pubDate>
+				url="https://archive.org/download/20221003notsurvivor/20221003notsurvivor.mp3" />
+			<guid isPermaLink="false">https://archive.org/download/20221003notsurvivor/20221003notsurvivor.mp3</guid>
+			<pubDate>Mon, 3 October 2022 05:00:00 PDT</pubDate>
 			<itunes:explicit>true</itunes:explicit>
 		</item>		
-		-->	
 		
-<!-- NEW SEASON!!-->
-
+				<!-- Next episode-->	
+		
 		
 		
 		<item>
