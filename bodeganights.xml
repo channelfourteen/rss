@@ -64,17 +64,17 @@
 		</item>		
 		-->
 		
-			<!-- Next episode
+			
 		<item>
 			<itunes:episodeType>full</itunes:episodeType>
-			<title>Bodega Nights - Koi, Film Editing, Star Wars</title>
+			<title>Bodega Nights - Brazil, Faatherhood, Elbowdrops</title>
 			<description>. A bunch of friends get together every now and then. This podcast makes sure it happens. Welcome to Bodega Nights. More at <![CDATA[ <a href="http://channelfourteen.com">http://channelfourteen.com</a> ]]></description>
 			<enclosure
-				length="21873791" 
+				length="21183923" 
 				type="audio/mpeg" 
-				url="https://archive.org/download/20210926banana/20210926banana.mp3" />
-			<guid isPermaLink="false">https://archive.org/download/20210926banana/20210926banana.mp3</guid>
-			<pubDate>Mon, 27 September 2021 05:00:00 PDT</pubDate>
+				url="https://archive.org/download/audio20230129elbowdrop/audio20230129elbowdrop.mp3" />
+			<guid isPermaLink="false">https://archive.org/download/audio20230129elbowdrop/audio20230129elbowdrop.mp3</guid>
+			<pubDate>Fri, 10 February 2023 05:00:00 PDT</pubDate>
 			<itunes:explicit>true</itunes:explicit>
 		</item>		
 		-->
