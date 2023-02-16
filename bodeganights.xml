@@ -49,19 +49,19 @@
 		</item>		
 		-->
 		
-		<!-- Next episode
 		<item>
 			<itunes:episodeType>full</itunes:episodeType>
-			<title>Bodega Nights - Koi, Film Editing, Star Wars</title>
-			<description>. A bunch of friends get together every now and then. This podcast makes sure it happens. Welcome to Bodega Nights. More at <![CDATA[ <a href="http://channelfourteen.com">http://channelfourteen.com</a> ]]></description>
+			<title>Bodega Nights - Wrestlemania, Piracy, Concerts</title>
+			<description>A bunch of friends get together every now and then. This podcast makes sure it happens. Welcome to Bodega Nights. More at <![CDATA[ <a href="http://channelfourteen.com">http://channelfourteen.com</a> ]]></description>
 			<enclosure
-				length="21873791" 
+				length="28246809" 
 				type="audio/mpeg" 
-				url="https://archive.org/download/20210926banana/20210926banana.mp3" />
-			<guid isPermaLink="false">https://archive.org/download/20210926banana/20210926banana.mp3</guid>
-			<pubDate>Mon, 27 September 2021 05:00:00 PDT</pubDate>
+				url="https://archive.org/download/20230212tv/20230212TV.mp3" />
+			<guid isPermaLink="false">https://archive.org/download/20230212tv/20230212TV.mp3</guid>
+			<pubDate>Fri, 17 February 2023 05:00:00 PDT</pubDate>
 			<itunes:explicit>true</itunes:explicit>
 		</item>		
+		
 		-->
 		
 			
