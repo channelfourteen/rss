@@ -21,7 +21,7 @@
 		
 		<!--If you've found this, hello. welcome to the guts of the podcast. Here's where you'll find some of the upcoming episodes and plans and whatnot.-->
 		
-		<!-- NORM2
+		<!-- JO SERRANO 2
 		
 		<item>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -34,6 +34,26 @@
 				type="audio/mpeg" 
 				url="https://archive.org/download/20221030normp1/20221030Normp1.mp3" />
 			<guid isPermaLink="false">https://archive.org/download/20221030normp1/20221030Normp1.mp3</guid>
+			<pubDate>Wed, 9 November 2022 03:00:00 PDT</pubDate>
+			<itunes:explicit>false</itunes:explicit>
+		</item>		
+		
+		-->	
+		
+		
+		<!-- JO SERRANO -->
+		
+		<item>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>39</itunes:episode>
+			<title>You Have to Enjoy What You Do: Life in UA&#38;P with Jo Serrano</title>
+			<description>Today in the cas garden, Jo Serrano talks about her experience in UA&amp;P. Shownotes at <![CDATA[ <a href="http://channelfourteen.com">http://channelfourteen.com</a> ]]></description>
+			<media:thumbnail url="https://1.bp.blogspot.com/-NngtvDyfs5o/YJMoHwNv4HI/AAAAAAAABAc/JCEhw4yBpVIV1xAKa7FRwYMUDxmTi0VLgCLcBGAsYHQ/s2048/ampersand.png" height="512" width="512" />
+			<enclosure
+				length="18331978" 
+				type="audio/mpeg" 
+				url="https://archive.org/download/20230312joserrano/20230312joserrano.mp3" />
+			<guid isPermaLink="false">https://archive.org/download/20230312joserrano/20230312joserrano.mp3</guid>
 			<pubDate>Wed, 9 November 2022 03:00:00 PDT</pubDate>
 			<itunes:explicit>false</itunes:explicit>
 		</item>		
