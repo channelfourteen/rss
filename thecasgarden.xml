@@ -39,6 +39,25 @@
 		</item>		
 		
 		-->	
+
+				<!-- JO SERRANO 2 	-->	
+		
+		<item>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>40</itunes:episode>
+			<title>People Need to Know About the Places Here in The Philippines: Jo Serrano's Life After UA&#38;P</title>
+			<description>Today in the cas garden, Jo Serrano talks about her experience in HSBC's KYC department and her journey as a content creator. Shownotes at <![CDATA[ <a href="http://channelfourteen.com">http://channelfourteen.com</a> ]]></description>
+			<media:thumbnail url="https://1.bp.blogspot.com/-NngtvDyfs5o/YJMoHwNv4HI/AAAAAAAABAc/JCEhw4yBpVIV1xAKa7FRwYMUDxmTi0VLgCLcBGAsYHQ/s2048/ampersand.png" height="512" width="512" />
+			<enclosure
+				length="23038210" 
+				type="audio/mpeg" 
+				url="https://archive.org/download/20230312joserrano2/20230312joserrano2.mp3" />
+			<guid isPermaLink="false">https://archive.org/download/20230312joserrano2/20230312joserrano2.mp3</guid>
+			<pubDate>Wed, 5 April 2023 03:00:00 PDT</pubDate>
+			<itunes:explicit>false</itunes:explicit>
+		</item>		
+		
+	
 		
 		
 		<!-- JO SERRANO -->
