@@ -20,21 +20,80 @@
 		<itunes:subtitle>an unofficial podcast from some alumni of that small university in Ortigas.</itunes:subtitle>
 		
 		<!--If you've found this, hello. welcome to the guts of the podcast. Here's where you'll find some of the upcoming episodes and plans and whatnot.-->
+			
+			
+			<!-- RODS ESCOBAR 2
 		
-		<!-- JO SERRANO 2
+		<item>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>41</itunes:episode>
+			<title>Unlocking Core Memories: Life in UA&#38;P with Kat Olan</title>
+			<description>Today in the cas garden, Kat Olan talks about her life as a UA&amp;P student. Shownotes at <![CDATA[ <a href="http://channelfourteen.com">http://channelfourteen.com</a> ]]></description>
+			<media:thumbnail url="https://1.bp.blogspot.com/-NngtvDyfs5o/YJMoHwNv4HI/AAAAAAAABAc/JCEhw4yBpVIV1xAKa7FRwYMUDxmTi0VLgCLcBGAsYHQ/s2048/ampersand.png" height="512" width="512" />
+			<enclosure
+				length="14159268" 
+				type="audio/mpeg" 
+				url="https://archive.org/download/20230625katolanp-1/20230625katolanp1.mp3" />
+			<guid isPermaLink="false">https://archive.org/download/20230625katolanp-1/20230625katolanp1.mp3</guid>
+			<pubDate>Wed, 5 July 2023 03:00:00 PDT</pubDate>
+			<itunes:explicit>false</itunes:explicit>
+		</item>		
+		
+		-->	
+		
+			<!-- RODS ESCOBAR 1
+		
+		<item>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>41</itunes:episode>
+			<title>Unlocking Core Memories: Life in UA&#38;P with Kat Olan</title>
+			<description>Today in the cas garden, Kat Olan talks about her life as a UA&amp;P student. Shownotes at <![CDATA[ <a href="http://channelfourteen.com">http://channelfourteen.com</a> ]]></description>
+			<media:thumbnail url="https://1.bp.blogspot.com/-NngtvDyfs5o/YJMoHwNv4HI/AAAAAAAABAc/JCEhw4yBpVIV1xAKa7FRwYMUDxmTi0VLgCLcBGAsYHQ/s2048/ampersand.png" height="512" width="512" />
+			<enclosure
+				length="14159268" 
+				type="audio/mpeg" 
+				url="https://archive.org/download/20230625katolanp-1/20230625katolanp1.mp3" />
+			<guid isPermaLink="false">https://archive.org/download/20230625katolanp-1/20230625katolanp1.mp3</guid>
+			<pubDate>Wed, 5 July 2023 03:00:00 PDT</pubDate>
+			<itunes:explicit>false</itunes:explicit>
+		</item>		
+		
+		-->	
+		
+			
+			<!-- KAT OLAN 3
+		
+		<item>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>41</itunes:episode>
+			<title>Unlocking Core Memories: Life in UA&#38;P with Kat Olan</title>
+			<description>Today in the cas garden, Kat Olan talks about her life as a UA&amp;P student. Shownotes at <![CDATA[ <a href="http://channelfourteen.com">http://channelfourteen.com</a> ]]></description>
+			<media:thumbnail url="https://1.bp.blogspot.com/-NngtvDyfs5o/YJMoHwNv4HI/AAAAAAAABAc/JCEhw4yBpVIV1xAKa7FRwYMUDxmTi0VLgCLcBGAsYHQ/s2048/ampersand.png" height="512" width="512" />
+			<enclosure
+				length="14159268" 
+				type="audio/mpeg" 
+				url="https://archive.org/download/20230625katolanp3/20230625katolanp3.mp3" />
+			<guid isPermaLink="false">https://archive.org/download/20230625katolanp3/20230625katolanp3.mp3</guid>
+			<pubDate>Wed, 5 July 2023 03:00:00 PDT</pubDate>
+			<itunes:explicit>false</itunes:explicit>
+		</item>		
+		
+		-->	
+		
+			<!-- KAT OLAN 2 -->
 		
 		<item>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:episode>37</itunes:episode>
-			<title>Choosing Schools Based on Toilet Facilities: Life in UA&#38;P with Norman Tan</title>
-			<description>Today in the cas garden, Norman Tan talks about his time in UA&amp;P. Shownotes at <![CDATA[ <a href="http://channelfourteen.com">http://channelfourteen.com</a> ]]></description>
+			<title>What We're Doing Has a Sense of Purpose: Life after UA&amp;P with Kat Olan</title>
+			<description>Today in the cas garden, Kat Olan talks about working as a copywriter in Dentsu Jayme Syfu, self publishing her novel Tablay, and her life after UA&amp;P. Shownotes at <![CDATA[ <a href="http://channelfourteen.com">http://channelfourteen.com</a> ]]></description>
 			<media:thumbnail url="https://1.bp.blogspot.com/-NngtvDyfs5o/YJMoHwNv4HI/AAAAAAAABAc/JCEhw4yBpVIV1xAKa7FRwYMUDxmTi0VLgCLcBGAsYHQ/s2048/ampersand.png" height="512" width="512" />
 			<enclosure
-				length="16859780" 
+				length="16239348" 
 				type="audio/mpeg" 
-				url="https://archive.org/download/20221030normp1/20221030Normp1.mp3" />
-			<guid isPermaLink="false">https://archive.org/download/20221030normp1/20221030Normp1.mp3</guid>
-			<pubDate>Wed, 9 November 2022 03:00:00 PDT</pubDate>
+				url="https://archive.org/download/20230625katolanp2/20230625katolanp2.mp3" />
+			<guid isPermaLink="false">https://archive.org/download/20230625katolanp2/20230625katolanp2.mp3</guid>
+			<pubDate>Sat, 15 July 2023 2022 03:00:00 PDT</pubDate>
 			<itunes:explicit>false</itunes:explicit>
 		</item>		
 		
