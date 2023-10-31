@@ -4,7 +4,7 @@
 		<link>http://channelfourteen.com</link>
 		<media:thumbnail url="https://1.bp.blogspot.com/-NngtvDyfs5o/YJMoHwNv4HI/AAAAAAAABAc/JCEhw4yBpVIV1xAKa7FRwYMUDxmTi0VLgCLcBGAsYHQ/s1600/ampersand.png"/>
 		<language>en-us</language>
-		<copyright>© 2021 channelfourteen</copyright>
+		<copyright>© 2023 channelfourteen</copyright>
 		<itunes:author>channelfourteen</itunes:author>
 		<description> an unofficial podcast from some alumni of that small university in Ortigas. </description>
 		<itunes:type>episodic</itunes:type>
@@ -26,15 +26,15 @@
 		
 		<item>
 			<itunes:episodeType>full</itunes:episodeType>
-			<itunes:episode>45</itunes:episode>
-			<title>Unlocking Core Memories: Life in UA&#38;P with Kat Olan</title>
-			<description>Today in the cas garden, Kat Olan talks about her life as a UA&amp;P student. Shownotes at <![CDATA[ <a href="http://channelfourteen.com">http://channelfourteen.com</a> ]]></description>
+			<itunes:episode>47</itunes:episode>
+			<title>I&#39;d Be A Fool If I Said No: Life After UA&#38;P With Rosh Uttamchandani</title>
+			<description>Today in the cas garden, Rosh Uttamchandani talks about starting a marketing consulting firm, teaching Bollywood in UA&amp;P, and a karmic theory of ethics. Shownotes at <![CDATA[ <a href="http://channelfourteen.com">http://channelfourteen.com</a> ]]></description>
 			<media:thumbnail url="https://1.bp.blogspot.com/-NngtvDyfs5o/YJMoHwNv4HI/AAAAAAAABAc/JCEhw4yBpVIV1xAKa7FRwYMUDxmTi0VLgCLcBGAsYHQ/s2048/ampersand.png" height="512" width="512" />
 			<enclosure
 				length="14159268" 
 				type="audio/mpeg" 
-				url="https://archive.org/download/20230625katolanp-1/20230625katolanp1.mp3" />
-			<guid isPermaLink="false">https://archive.org/download/20230625katolanp-1/20230625katolanp1.mp3</guid>
+				url="https://archive.org/download/20230910roshp2/20230910roshp2.mp3" />
+			<guid isPermaLink="false">https://archive.org/download/20230910roshp2/20230910roshp2.mp3</guid>
 			<pubDate>Wed, 5 July 2023 03:00:00 PDT</pubDate>
 			<itunes:explicit>false</itunes:explicit>
 		</item>		
@@ -42,24 +42,24 @@
 		
 		-->							
 		
-			<!-- ROSH 1
+			<!-- ROSH 1	-->	
 		
 		<item>
 			<itunes:episodeType>full</itunes:episodeType>
-			<itunes:episode>45</itunes:episode>
-			<title>Unlocking Core Memories: Life in UA&#38;P with Kat Olan</title>
-			<description>Today in the cas garden, Kat Olan talks about her life as a UA&amp;P student. Shownotes at <![CDATA[ <a href="http://channelfourteen.com">http://channelfourteen.com</a> ]]></description>
+			<itunes:episode>46</itunes:episode>
+			<title>It&#39;s That Vibe That I Felt: Life in UA&#38;P with Rosh Uttamchandani</title>
+			<description>Today in the cas garden, Rosh Uttamchandani talks about hatch week, the leader, and his life as a UA&amp;P student. Shownotes at <![CDATA[ <a href="http://channelfourteen.com">http://channelfourteen.com</a> ]]></description>
 			<media:thumbnail url="https://1.bp.blogspot.com/-NngtvDyfs5o/YJMoHwNv4HI/AAAAAAAABAc/JCEhw4yBpVIV1xAKa7FRwYMUDxmTi0VLgCLcBGAsYHQ/s2048/ampersand.png" height="512" width="512" />
 			<enclosure
-				length="14159268" 
+				length="22600456" 
 				type="audio/mpeg" 
-				url="https://archive.org/download/20230625katolanp-1/20230625katolanp1.mp3" />
-			<guid isPermaLink="false">https://archive.org/download/20230625katolanp-1/20230625katolanp1.mp3</guid>
-			<pubDate>Wed, 5 July 2023 03:00:00 PDT</pubDate>
+				url="https://archive.org/download/20230910roshp1/20230910roshp1.mp3" />
+			<guid isPermaLink="false">https://archive.org/download/20230910roshp1/20230910roshp1.mp3</guid>
+			<pubDate>Tue, 31 October 2023 03:00:00 PDT</pubDate>
 			<itunes:explicit>false</itunes:explicit>
 		</item>		
 		
-		-->	
+	
 		
 			<!-- RODS ESCOBAR 2	-->
 		
