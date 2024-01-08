@@ -40,7 +40,26 @@
 		</item>		
 		
 		
-		-->							
+		-->		
+		
+					<!-- ROSH 2	-->	
+		
+		<item>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>47</itunes:episode>
+			<title>I&#39;d Be A Fool If I Said No: Life After UA&#38;P and Back Again With Rosh Uttamchandani</title>
+			<description>Today in the cas garden, Rosh Uttamchandani talks about starting a marketing consulting firm, teaching Bollywood in UA&amp;P, and a karmic theory of ethics. Shownotes at <![CDATA[ <a href="http://channelfourteen.com">http://channelfourteen.com</a> ]]></description>
+			<media:thumbnail url="https://1.bp.blogspot.com/-NngtvDyfs5o/YJMoHwNv4HI/AAAAAAAABAc/JCEhw4yBpVIV1xAKa7FRwYMUDxmTi0VLgCLcBGAsYHQ/s2048/ampersand.png" height="512" width="512" />
+			<enclosure
+				length="20609569" 
+				type="audio/mpeg" 
+				url="https://archive.org/download/20230910roshp2/20230910roshp2.mp3" />
+			<guid isPermaLink="false">https://archive.org/download/20230910roshp2/20230910roshp2.mp3</guid>
+			<pubDate>Mon, 8 January 2024 03:00:00 PDT</pubDate>
+			<itunes:explicit>false</itunes:explicit>
+		</item>		
+		
+							
 		
 			<!-- ROSH 1	-->	
 		
