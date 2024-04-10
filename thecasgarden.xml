@@ -22,7 +22,7 @@
 		<!--If you've found this, hello. welcome to the guts of the podcast. Here's where you'll find some of the upcoming episodes and plans and whatnot.-->
 			
 			
-			<!-- X 2
+			<!-- Whoever is next
 		
 		<item>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -42,6 +42,65 @@
 		
 		-->	
 		
+				<!-- Bien 2
+		
+		<item>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>48</itunes:episode>
+			<title>The Taxi is There, It&#39;s Waiting for Us: Life in UA&#38;P With X Vallez</title>
+			<description>Today in the cas garden, X Vallez talks about his life in UA&P. Shownotes at <![CDATA[ <a href="http://channelfourteen.com">http://channelfourteen.com</a> ]]></description>
+			<media:thumbnail url="https://1.bp.blogspot.com/-NngtvDyfs5o/YJMoHwNv4HI/AAAAAAAABAc/JCEhw4yBpVIV1xAKa7FRwYMUDxmTi0VLgCLcBGAsYHQ/s2048/ampersand.png" height="512" width="512" />
+			<enclosure
+				length="11356776" 
+				type="audio/mpeg" 
+				url="https://archive.org/download/20240121xvallezp1/20240121xvallezp1.mp3" />
+			<guid isPermaLink="false">https://archive.org/download/20240121xvallezp1/20240121xvallezp1.mp3</guid>
+			<pubDate>Sun, 10 March 2024 03:00:00 PDT</pubDate>
+			<itunes:explicit>false</itunes:explicit>
+		</item>		
+		
+		
+		-->	
+		
+				<!-- Bien 1
+		
+		<item>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>48</itunes:episode>
+			<title>The Taxi is There, It&#39;s Waiting for Us: Life in UA&#38;P With X Vallez</title>
+			<description>Today in the cas garden, X Vallez talks about his life in UA&P. Shownotes at <![CDATA[ <a href="http://channelfourteen.com">http://channelfourteen.com</a> ]]></description>
+			<media:thumbnail url="https://1.bp.blogspot.com/-NngtvDyfs5o/YJMoHwNv4HI/AAAAAAAABAc/JCEhw4yBpVIV1xAKa7FRwYMUDxmTi0VLgCLcBGAsYHQ/s2048/ampersand.png" height="512" width="512" />
+			<enclosure
+				length="11356776" 
+				type="audio/mpeg" 
+				url="https://archive.org/download/20240121xvallezp1/20240121xvallezp1.mp3" />
+			<guid isPermaLink="false">https://archive.org/download/20240121xvallezp1/20240121xvallezp1.mp3</guid>
+			<pubDate>Sun, 10 March 2024 03:00:00 PDT</pubDate>
+			<itunes:explicit>false</itunes:explicit>
+		</item>		
+		
+		
+		-->	
+		
+				<!-- X 2 	-->	
+		
+		<item>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>49</itunes:episode>
+			<title>Change the World Through Storytelling: Life After Graduating From UA&#38;P With X Vallez</title>
+			<description>Today in the cas garden, X Vallez talks about working with Marilou Diaz-Abaya, starting his own company, and working for the Ayala Corporation. Shownotes at <![CDATA[ <a href="http://channelfourteen.com">http://channelfourteen.com</a> ]]></description>
+			<media:thumbnail url="https://1.bp.blogspot.com/-NngtvDyfs5o/YJMoHwNv4HI/AAAAAAAABAc/JCEhw4yBpVIV1xAKa7FRwYMUDxmTi0VLgCLcBGAsYHQ/s2048/ampersand.png" height="512" width="512" />
+			<enclosure
+				length="19635912" 
+				type="audio/mpeg" 
+				url="https://archive.org/download/20240121xvallezp2/20240121xvallezp2.mp3" />
+			<guid isPermaLink="false">https://archive.org/download/20240121xvallezp2/20240121xvallezp2.mp3</guid>
+			<pubDate>Sun, 10 March 2024 03:00:00 PDT</pubDate>
+			<itunes:explicit>false</itunes:explicit>
+		</item>		
+		
+		
+	
 					<!-- X 1 -->
 		
 		<item>
@@ -55,7 +114,7 @@
 				type="audio/mpeg" 
 				url="https://archive.org/download/20240121xvallezp1/20240121xvallezp1.mp3" />
 			<guid isPermaLink="false">https://archive.org/download/20240121xvallezp1/20240121xvallezp1.mp3</guid>
-			<pubDate>Sun, 10 March 2024 03:00:00 PDT</pubDate>
+			<pubDate>Wed, 10 April 2024 03:00:00 PDT</pubDate>
 			<itunes:explicit>false</itunes:explicit>
 		</item>		
 		
