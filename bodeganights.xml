@@ -4,7 +4,7 @@
 		<link>http://www.channelfourteen.com/search/label/Bodega%20Nights</link>
 		<media:thumbnail url="http://2.bp.blogspot.com/--FTV2wr2zJg/U3R-5C8ihuI/AAAAAAAAASM/w0qEpMZ3RM0/s1600/bnightsnew.png" />
 		<language>en-us</language>
-		<copyright>© 2021 channelfourteen</copyright>
+		<copyright>© 2024 channelfourteen</copyright>
 		<itunes:author>channelfourteen</itunes:author>
 		<description>A bunch of friends get together now and then. This makes sure it happens. Welcome to Bodega Nights, a podcast out of the Philippines.</description>
 		<itunes:type>episodic</itunes:type>
@@ -34,6 +34,12 @@
 			<guid isPermaLink="false">https://archive.org/download/20230421postwm/20230421postwm.mp3</guid>
 			<pubDate>Sat, 22 April 2023 05:00:00 PDT</pubDate>
 			<itunes:explicit>true</itunes:explicit>
+			<psc:chapters version="1.2" xmlns:psc="http://podlove.org/simple-chapters">
+				<psc:chapter start="0" title="Welcome" />
+				<psc:chapter start="3:07" title="Introducing Podlove" href="http://podlove.org/" />
+				<psc:chapter start="8:26.250" title="Podlove WordPress Plugin" href="http://podlove.org/podlove-podcast-publisher" />
+				<psc:chapter start="12:42" title="Resumée" />
+			</psc:chapters>			
 		</item>		
 	
 		-->	
@@ -51,6 +57,12 @@
 			<guid isPermaLink="false">https://archive.org/download/20230421postwm/20230421postwm.mp3</guid>
 			<pubDate>Sat, 22 April 2023 05:00:00 PDT</pubDate>
 			<itunes:explicit>true</itunes:explicit>
+			<psc:chapters version="1.2" xmlns:psc="http://podlove.org/simple-chapters">
+				<psc:chapter start="0" title="Welcome" />
+				<psc:chapter start="3:07" title="Introducing Podlove" href="http://podlove.org/" />
+				<psc:chapter start="8:26.250" title="Podlove WordPress Plugin" href="http://podlove.org/podlove-podcast-publisher" />
+				<psc:chapter start="12:42" title="Resumée" />
+			</psc:chapters>			
 		</item>		
 	
 		-->
@@ -68,6 +80,12 @@
 			<guid isPermaLink="false">https://archive.org/download/20230421postwm/20230421postwm.mp3</guid>
 			<pubDate>Sat, 22 April 2023 05:00:00 PDT</pubDate>
 			<itunes:explicit>true</itunes:explicit>
+			<psc:chapters version="1.2" xmlns:psc="http://podlove.org/simple-chapters">
+				<psc:chapter start="0" title="Welcome" />
+				<psc:chapter start="3:07" title="Introducing Podlove" href="http://podlove.org/" />
+				<psc:chapter start="8:26.250" title="Podlove WordPress Plugin" href="http://podlove.org/podlove-podcast-publisher" />
+				<psc:chapter start="12:42" title="Resumée" />
+			</psc:chapters>			
 		</item>		
 	
 		-->	
