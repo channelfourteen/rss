@@ -3,7 +3,7 @@
 		<title>the cas garden</title>
 		<link>http://channelfourteen.com</link>
 		<media:thumbnail url="https://1.bp.blogspot.com/-NngtvDyfs5o/YJMoHwNv4HI/AAAAAAAABAc/JCEhw4yBpVIV1xAKa7FRwYMUDxmTi0VLgCLcBGAsYHQ/s1600/ampersand.png"/>
-		<atom:link href="https://channelfourteen.github.io/rss/thecasgarden.xml" rel="self" type="application/rss+xml" />
+		<atom:link href="https://channelfourteen.github.io/rss/thecasgarden.xml" rel="self" type="application/rss+xml"/>
 		<language>en-us</language>
 		<copyright>© 2024 channelfourteen</copyright>
 		<itunes:author>channelfourteen</itunes:author>
