@@ -5,8 +5,10 @@
 		<media:thumbnail url="https://1.bp.blogspot.com/-NngtvDyfs5o/YJMoHwNv4HI/AAAAAAAABAc/JCEhw4yBpVIV1xAKa7FRwYMUDxmTi0VLgCLcBGAsYHQ/s1600/ampersand.png"/>
 		<atom:link href="https://channelfourteen.github.io/rss/thecasgarden.xml" rel="self" type="application/rss+xml"/>
 		<language>en-us</language>
-		<copyright>© 2024 channelfourteen</copyright>
+		<copyright>channelfourteen</copyright>
 		<itunes:author>channelfourteen</itunes:author>
+		<podcast:person role="host">joao atienza</podcast:person>  
+		<podcast:person role="host">Martin V</podcast:person>
 		<description> an unofficial podcast from some alumni of that small university in Ortigas. </description>
 		<itunes:type>episodic</itunes:type>
 		<itunes:owner>
