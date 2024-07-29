@@ -50,8 +50,7 @@
 			<itunes:email>contact@channelfourteen.com</itunes:email>
 			<itunes:name>channelfourteen.com</itunes:name>
 		</itunes:owner>
-		<itunes:explicit>yes</itunes:explicit>
-		<itunes:image href="https://4.bp.blogspot.com/-9xfdX3WUkEE/VxBVmJLqkTI/AAAAAAAAAPU/WKA4X7A8YHM56a6woHQwBhIYta-egIx4QCLcB/s1600/third-world-linux-ver2.png"/>
+		<itunes:explicit>true</itunes:explicit>
 		<itunes:keywords>linux,third,world,channel,fourteen,philippines</itunes:keywords>
 
 
@@ -70,7 +69,7 @@
 				url="https://archive.org/download/20240121xvallezp1/20240121xvallezp1.mp3" />
 			<guid isPermaLink="false">https://archive.org/download/20240121xvallezp1/20240121xvallezp1.mp3</guid>
 			<pubDate>Sun, 10 March 2024 03:00:00 PDT</pubDate>
-			<itunes:explicit>yes</itunes:explicit>
+			<itunes:explicit>true</itunes:explicit>
 			<psc:chapters version="1.2" xmlns:psc="http://podlove.org/simple-chapters">
 				<psc:chapter start="0" title="Welcome" />
 				<psc:chapter start="3:07" title="Introducing Podlove" href="http://podlove.org/" />
