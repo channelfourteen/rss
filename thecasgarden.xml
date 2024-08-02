@@ -66,7 +66,7 @@
 			<pubDate>Sun, 10 March 2024 03:00:00 PDT</pubDate>
 			<itunes:explicit>false</itunes:explicit>
 			<psc:chapters version="1.2" xmlns:psc="http://podlove.org/simple-chapters">
-				<psc:chapter start="0" title="Welcome" />
+				<psc:chapter start="0" title="Welcome" image="url" />
 				<psc:chapter start="3:07" title="Introducing Podlove" href="http://podlove.org/" />
 				<psc:chapter start="8:26.250" title="Podlove WordPress Plugin" href="http://podlove.org/podlove-podcast-publisher" />
 				<psc:chapter start="12:42" title="Resumée" />
@@ -92,7 +92,7 @@
 			<itunes:explicit>false</itunes:explicit>
 			<psc:chapters version="1.2" xmlns:psc="http://podlove.org/simple-chapters">
 				<psc:chapter start="0" title="Welcome" />
-				<psc:chapter start="3:07" title="Introducing Podlove" href="http://podlove.org/" />
+				<psc:chapter start="3:07" title="Introducing Podlove" href="http://podlove.org/" image="url" />
 				<psc:chapter start="8:26.250" title="Podlove WordPress Plugin" href="http://podlove.org/podlove-podcast-publisher" />
 				<psc:chapter start="12:42" title="Resumée" />
 			</psc:chapters>			
@@ -119,7 +119,7 @@
 			<pubDate>Sun, 10 March 2024 03:00:00 PDT</pubDate>
 			<itunes:explicit>false</itunes:explicit>
 			<psc:chapters version="1.2" xmlns:psc="http://podlove.org/simple-chapters">
-				<psc:chapter start="0" title="Welcome" />
+				<psc:chapter start="0" title="Welcome" image="url" />
 				<psc:chapter start="3:07" title="Introducing Podlove" href="http://podlove.org/" />
 				<psc:chapter start="8:26.250" title="Podlove WordPress Plugin" href="http://podlove.org/podlove-podcast-publisher" />
 				<psc:chapter start="12:42" title="Resumée" />
@@ -146,7 +146,7 @@
 			<itunes:explicit>false</itunes:explicit>
 			<psc:chapters version="1.2" xmlns:psc="http://podlove.org/simple-chapters">
 				<psc:chapter start="0" title="Welcome" />
-				<psc:chapter start="3:07" title="Introducing Podlove" href="http://podlove.org/" />
+				<psc:chapter start="3:07" title="Introducing Podlove" href="http://podlove.org/" image="url"/>
 				<psc:chapter start="8:26.250" title="Podlove WordPress Plugin" href="http://podlove.org/podlove-podcast-publisher" />
 				<psc:chapter start="12:42" title="Resumée" />
 			</psc:chapters>

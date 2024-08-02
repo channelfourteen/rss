@@ -40,7 +40,7 @@
 		<atom:link href="https://channelfourteen.github.io/rss/thirdworldlinux.xml" rel="self" type="application/rss+xml"/>
 		<language>en-us</language>
 		<copyright>channelfourteen</copyright>
-		<itunes:author>channelfourteen.com</itunes:author>
+		<itunes:author>channelfourteen</itunes:author>
 		<podcast:person role="host">joao atienza</podcast:person>  
 		<podcast:person role="host">ag de mesa</podcast:person>
 		<description>AG and Joao talk about their linux lives in the third world (well, the Philippines).</description>
