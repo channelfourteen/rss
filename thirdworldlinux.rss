@@ -37,7 +37,7 @@
         <link>http://www.channelfourteen.com/search/label/Third%20World%20Linux</link>
 		<media:thumbnail url="https://4.bp.blogspot.com/-9xfdX3WUkEE/VxBVmJLqkTI/AAAAAAAAAPU/WKA4X7A8YHM56a6woHQwBhIYta-egIx4QCLcB/s1600/third-world-linux-ver2.png"/>
         <itunes:image href="https://4.bp.blogspot.com/-9xfdX3WUkEE/VxBVmJLqkTI/AAAAAAAAAPU/WKA4X7A8YHM56a6woHQwBhIYta-egIx4QCLcB/s1600/third-world-linux-ver2.png"/>
-		<atom:link href="https://channelfourteen.github.io/rss/thirdworldlinux.xml" rel="self" type="application/rss+xml"/>
+		<atom:link href="https://channelfourteen.github.io/rss/thirdworldlinux.rss" rel="self" type="application/rss+xml"/>
 		<language>en-us</language>
 		<copyright>channelfourteen</copyright>
 		<itunes:author>channelfourteen</itunes:author>
