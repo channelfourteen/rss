@@ -1,0 +1,1154 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
+	<channel>
+		<title>the cas garden</title>
+		<link>http://channelfourteen.com</link>
+		<media:thumbnail url="https://1.bp.blogspot.com/-NngtvDyfs5o/YJMoHwNv4HI/AAAAAAAABAc/JCEhw4yBpVIV1xAKa7FRwYMUDxmTi0VLgCLcBGAsYHQ/s1600/ampersand.png"/>
+		<atom:link href="https://channelfourteen.github.io/rss/thecasgarden.xml" rel="self" type="application/rss+xml"/>
+		<language>en-us</language>
+		<copyright>channelfourteen</copyright>
+		<itunes:author>channelfourteen</itunes:author>
+		<podcast:person role="host">joao atienza</podcast:person>  
+		<podcast:person role="host">Martin V</podcast:person>
+		<description> an unofficial podcast from some alumni of that small university in Ortigas. </description>
+		<itunes:type>episodic</itunes:type>
+		<itunes:owner>
+			<itunes:email>contact@channelfourteen.com</itunes:email>
+			<itunes:name>channelfourteen.com</itunes:name>
+		</itunes:owner>
+		<itunes:category text="Society &amp; Culture">
+		</itunes:category>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:image href="https://1.bp.blogspot.com/-NngtvDyfs5o/YJMoHwNv4HI/AAAAAAAABAc/JCEhw4yBpVIV1xAKa7FRwYMUDxmTi0VLgCLcBGAsYHQ/s1600/ampersand.png"/>
+		<itunes:keywords>cas,garden,ua,p,alumni,university,college</itunes:keywords>
+		<itunes:subtitle>an unofficial podcast from some alumni of that small university in Ortigas.</itunes:subtitle>
+		
+		<!--If you've found this, hello. welcome to the guts of the podcast. Here's where you'll find some of the upcoming episodes and plans and whatnot.-->
+
+				<!-- Whoever is next 7
+		
+		<item>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>48</itunes:episode>
+			<title>The Taxi is There, It&#39;s Waiting for Us: Life in UA&#38;P With X Vallez</title>
+			<description>Today in the cas garden, X Vallez talks about his life in UA&P. Shownotes at <![CDATA[ <a href="http://channelfourteen.com">http://channelfourteen.com</a> ]]></description>
+			<media:thumbnail url="https://1.bp.blogspot.com/-NngtvDyfs5o/YJMoHwNv4HI/AAAAAAAABAc/JCEhw4yBpVIV1xAKa7FRwYMUDxmTi0VLgCLcBGAsYHQ/s2048/ampersand.png" height="512" width="512" />
+			<enclosure
+				length="11356776" 
+				type="audio/mpeg" 
+				url="https://archive.org/download/20240121xvallezp1/20240121xvallezp1.mp3" />
+			<guid isPermaLink="false">https://archive.org/download/20240121xvallezp1/20240121xvallezp1.mp3</guid>
+			<pubDate>Sun, 10 March 2024 03:00:00 PDT</pubDate>
+			<itunes:explicit>false</itunes:explicit>
+			<psc:chapters version="1.2" xmlns:psc="http://podlove.org/simple-chapters">
+				<psc:chapter start="0" title="Welcome" />
+				<psc:chapter start="3:07" title="Introducing Podlove" href="http://podlove.org/" />
+				<psc:chapter start="8:26.250" title="Podlove WordPress Plugin" href="http://podlove.org/podlove-podcast-publisher" />
+				<psc:chapter start="12:42" title="Resumée" />
+			</psc:chapters>			
+		</item>		
+		
+		
+		-->	
+		
+				<!-- Whoever is next 
+		
+		<item>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>48</itunes:episode>
+			<title>The Taxi is There, It&#39;s Waiting for Us: Life in UA&#38;P With X Vallez</title>
+			<description>Today in the cas garden, X Vallez talks about his life in UA&P. Shownotes at <![CDATA[ <a href="http://channelfourteen.com">http://channelfourteen.com</a> ]]></description>
+			<media:thumbnail url="https://1.bp.blogspot.com/-NngtvDyfs5o/YJMoHwNv4HI/AAAAAAAABAc/JCEhw4yBpVIV1xAKa7FRwYMUDxmTi0VLgCLcBGAsYHQ/s2048/ampersand.png" height="512" width="512" />
+			<enclosure
+				length="11356776" 
+				type="audio/mpeg" 
+				url="https://archive.org/download/20240121xvallezp1/20240121xvallezp1.mp3" />
+			<guid isPermaLink="false">https://archive.org/download/20240121xvallezp1/20240121xvallezp1.mp3</guid>
+			<pubDate>Sun, 10 March 2024 03:00:00 PDT</pubDate>
+			<itunes:explicit>false</itunes:explicit>
+			<psc:chapters version="1.2" xmlns:psc="http://podlove.org/simple-chapters">
+				<psc:chapter start="0" title="Welcome" image="url" />
+				<psc:chapter start="3:07" title="Introducing Podlove" href="http://podlove.org/" />
+				<psc:chapter start="8:26.250" title="Podlove WordPress Plugin" href="http://podlove.org/podlove-podcast-publisher" />
+				<psc:chapter start="12:42" title="Resumée" />
+			</psc:chapters>			
+		</item>		
+		
+		
+		-->						
+					<!-- Whoever is next
+		
+		<item>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>48</itunes:episode>
+			<title>The Taxi is There, It&#39;s Waiting for Us: Life in UA&#38;P With X Vallez</title>
+			<description>Today in the cas garden, X Vallez talks about his life in UA&P. Shownotes at <![CDATA[ <a href="http://channelfourteen.com">http://channelfourteen.com</a> ]]></description>
+			<media:thumbnail url="https://1.bp.blogspot.com/-NngtvDyfs5o/YJMoHwNv4HI/AAAAAAAABAc/JCEhw4yBpVIV1xAKa7FRwYMUDxmTi0VLgCLcBGAsYHQ/s2048/ampersand.png" height="512" width="512" />
+			<enclosure
+				length="11356776" 
+				type="audio/mpeg" 
+				url="https://archive.org/download/20240121xvallezp1/20240121xvallezp1.mp3" />
+			<guid isPermaLink="false">https://archive.org/download/20240121xvallezp1/20240121xvallezp1.mp3</guid>
+			<pubDate>Sun, 10 March 2024 03:00:00 PDT</pubDate>
+			<itunes:explicit>false</itunes:explicit>
+			<psc:chapters version="1.2" xmlns:psc="http://podlove.org/simple-chapters">
+				<psc:chapter start="0" title="Welcome" />
+				<psc:chapter start="3:07" title="Introducing Podlove" href="http://podlove.org/" image="url" />
+				<psc:chapter start="8:26.250" title="Podlove WordPress Plugin" href="http://podlove.org/podlove-podcast-publisher" />
+				<psc:chapter start="12:42" title="Resumée" />
+			</psc:chapters>			
+		</item>		
+		
+		
+		-->		
+				
+				
+				
+				<!-- Athena Tibi 2
+		
+		<item>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>53</itunes:episode>
+			<title>The Taxi is There, It&#39;s Waiting for Us: Life in UA&#38;P With X Vallez</title>
+			<description>Today in the cas garden, X Vallez talks about his life in UA&P. Shownotes at <![CDATA[ <a href="http://channelfourteen.com">http://channelfourteen.com</a> ]]></description>
+			<media:thumbnail url="https://1.bp.blogspot.com/-NngtvDyfs5o/YJMoHwNv4HI/AAAAAAAABAc/JCEhw4yBpVIV1xAKa7FRwYMUDxmTi0VLgCLcBGAsYHQ/s2048/ampersand.png" height="512" width="512" />
+			<enclosure
+				length="11356776" 
+				type="audio/mpeg" 
+				url="https://archive.org/download/20240121xvallezp1/20240121xvallezp1.mp3" />
+			<guid isPermaLink="false">https://archive.org/download/20240121xvallezp1/20240121xvallezp1.mp3</guid>
+			<pubDate>Sun, 10 March 2024 03:00:00 PDT</pubDate>
+			<itunes:explicit>false</itunes:explicit>
+			<psc:chapters version="1.2" xmlns:psc="http://podlove.org/simple-chapters">
+				<psc:chapter start="0" title="Welcome" image="url" />
+				<psc:chapter start="3:07" title="Introducing Podlove" href="http://podlove.org/" />
+				<psc:chapter start="8:26.250" title="Podlove WordPress Plugin" href="http://podlove.org/podlove-podcast-publisher" />
+				<psc:chapter start="12:42" title="Resumée" />
+			</psc:chapters>		
+		</item>		
+		
+		
+		-->	
+			
+			<!-- Athena Tibi 1
+		
+		<item>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>52</itunes:episode>
+			<title>The Taxi is There, It&#39;s Waiting for Us: Life in UA&#38;P With X Vallez</title>
+			<description>Today in the cas garden, X Vallez talks about his life in UA&P. Shownotes at <![CDATA[ <a href="http://channelfourteen.com">http://channelfourteen.com</a> ]]></description>
+			<media:thumbnail url="https://1.bp.blogspot.com/-NngtvDyfs5o/YJMoHwNv4HI/AAAAAAAABAc/JCEhw4yBpVIV1xAKa7FRwYMUDxmTi0VLgCLcBGAsYHQ/s2048/ampersand.png" height="512" width="512" />
+			<enclosure
+				length="11356776" 
+				type="audio/mpeg" 
+				url="https://archive.org/download/20240121xvallezp1/20240121xvallezp1.mp3" />
+			<guid isPermaLink="false">https://archive.org/download/20240121xvallezp1/20240121xvallezp1.mp3</guid>
+			<pubDate>Sun, 10 March 2024 03:00:00 PDT</pubDate>
+			<itunes:explicit>false</itunes:explicit>
+			<psc:chapters version="1.2" xmlns:psc="http://podlove.org/simple-chapters">
+				<psc:chapter start="0" title="Welcome" />
+				<psc:chapter start="3:07" title="Introducing Podlove" href="http://podlove.org/" image="url"/>
+				<psc:chapter start="8:26.250" title="Podlove WordPress Plugin" href="http://podlove.org/podlove-podcast-publisher" />
+				<psc:chapter start="12:42" title="Resumée" />
+			</psc:chapters>
+		</item>		
+		
+		
+		-->	
+		
+				<!-- Bien 2 -->
+		
+		<item>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>51</itunes:episode>
+			<title>I&#39;m Hopefully Here to Stay: Life After Graduating From UA&#38;P With Bien Caro</title>
+			<description>Today in the cas garden, Bien Caro talks about marketing for food companies, competitive Tekken, and life in general after graduation. Shownotes at <![CDATA[ <a href="http://channelfourteen.com">http://channelfourteen.com</a> ]]></description>
+			<media:thumbnail url="https://1.bp.blogspot.com/-NngtvDyfs5o/YJMoHwNv4HI/AAAAAAAABAc/JCEhw4yBpVIV1xAKa7FRwYMUDxmTi0VLgCLcBGAsYHQ/s2048/ampersand.png" height="512" width="512" />
+			<enclosure
+				length="31353428" 
+				type="audio/mpeg" 
+				url="https://archive.org/download/20240205biencarop2/20240205biencarop2.mp3" />
+			<guid isPermaLink="false">https://archive.org/download/20240205biencarop2/20240205biencarop2.mp3</guid>
+			<pubDate>Sat, 29 June 2024 02:00:00 PDT</pubDate>
+			<itunes:explicit>false</itunes:explicit>
+		</item>		
+		
+		
+		
+		<!-- Bien 1 -->
+		
+		<item>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>50</itunes:episode>
+			<title>It Was an Opportunity for a Fresh Start: Life in UA&#38;P With Bien Caro</title>
+			<description>Today in the cas garden, Bien Caro talks about his life in UA&#38;P back when he was a student. Shownotes at <![CDATA[ <a href="http://channelfourteen.com">http://channelfourteen.com</a> ]]></description>
+			<media:thumbnail url="https://1.bp.blogspot.com/-NngtvDyfs5o/YJMoHwNv4HI/AAAAAAAABAc/JCEhw4yBpVIV1xAKa7FRwYMUDxmTi0VLgCLcBGAsYHQ/s2048/ampersand.png" height="512" width="512" />
+			<enclosure
+				length="20985945" 
+				type="audio/mpeg" 
+				url="https://archive.org/download/20240205biencarop1/20240205biencarop1.mp3" />
+			<guid isPermaLink="false">https://archive.org/download/20240205biencarop1/20240205biencarop1.mp3</guid>
+			<pubDate>Wed, 19 June 2024 03:00:00 PDT</pubDate>
+			<itunes:explicit>false</itunes:explicit>
+		</item>		
+		
+		
+		
+		
+				<!-- X 2 -->	
+		
+		<item>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>49</itunes:episode>
+			<title>Change the World Through Storytelling: Life After Graduating From UA&#38;P With X Vallez</title>
+			<description>Today in the cas garden, X Vallez talks about working with Marilou Diaz-Abaya, starting his own company, and working for the Ayala Corporation. Shownotes at <![CDATA[ <a href="http://channelfourteen.com">http://channelfourteen.com</a> ]]></description>
+			<media:thumbnail url="https://1.bp.blogspot.com/-NngtvDyfs5o/YJMoHwNv4HI/AAAAAAAABAc/JCEhw4yBpVIV1xAKa7FRwYMUDxmTi0VLgCLcBGAsYHQ/s2048/ampersand.png" height="512" width="512" />
+			<enclosure
+				length="19635912" 
+				type="audio/mpeg" 
+				url="https://archive.org/download/20240121xvallezp2/20240121xvallezp2.mp3" />
+			<guid isPermaLink="false">https://archive.org/download/20240121xvallezp2/20240121xvallezp2.mp3</guid>
+			<pubDate>Wed, 10 April 2024 03:00:00 PDT</pubDate>
+			<itunes:explicit>false</itunes:explicit>
+		</item>		
+		
+		
+	
+					<!-- X 1 -->
+		
+		<item>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>48</itunes:episode>
+			<title>The Taxi is There, It&#39;s Waiting for Us: Life in UA&#38;P With X Vallez</title>
+			<description>Today in the cas garden, X Vallez talks about his life in UA&amp;P. Shownotes at <![CDATA[ <a href="http://channelfourteen.com">http://channelfourteen.com</a> ]]></description>
+			<media:thumbnail url="https://1.bp.blogspot.com/-NngtvDyfs5o/YJMoHwNv4HI/AAAAAAAABAc/JCEhw4yBpVIV1xAKa7FRwYMUDxmTi0VLgCLcBGAsYHQ/s2048/ampersand.png" height="512" width="512" />
+			<enclosure
+				length="11356776" 
+				type="audio/mpeg" 
+				url="https://archive.org/download/20240121xvallezp1/20240121xvallezp1.mp3" />
+			<guid isPermaLink="false">https://archive.org/download/20240121xvallezp1/20240121xvallezp1.mp3</guid>
+			<pubDate>Sun, 10 March 2024 03:00:00 PDT</pubDate>
+			<itunes:explicit>false</itunes:explicit>
+		</item>		
+		
+		
+		-->		
+		
+					<!-- ROSH 2	-->	
+		
+		<item>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>47</itunes:episode>
+			<title>I&#39;d Be A Fool If I Said No: Life After UA&#38;P and Back Again With Rosh Uttamchandani</title>
+			<description>Today in the cas garden, Rosh Uttamchandani talks about starting a marketing consulting firm, teaching Bollywood in UA&amp;P, and a karmic theory of ethics. Shownotes at <![CDATA[ <a href="http://channelfourteen.com">http://channelfourteen.com</a> ]]></description>
+			<media:thumbnail url="https://1.bp.blogspot.com/-NngtvDyfs5o/YJMoHwNv4HI/AAAAAAAABAc/JCEhw4yBpVIV1xAKa7FRwYMUDxmTi0VLgCLcBGAsYHQ/s2048/ampersand.png" height="512" width="512" />
+			<enclosure
+				length="20609569" 
+				type="audio/mpeg" 
+				url="https://archive.org/download/20230910roshp2/20230910roshp2.mp3" />
+			<guid isPermaLink="false">https://archive.org/download/20230910roshp2/20230910roshp2.mp3</guid>
+			<pubDate>Mon, 8 January 2024 03:00:00 PDT</pubDate>
+			<itunes:explicit>false</itunes:explicit>
+		</item>		
+		
+							
+		
+			<!-- ROSH 1	-->	
+		
+		<item>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>46</itunes:episode>
+			<title>It&#39;s That Vibe That I Felt: Life in UA&#38;P with Rosh Uttamchandani</title>
+			<description>Today in the cas garden, Rosh Uttamchandani talks about hatch week, the leader, and his life as a UA&amp;P student. Shownotes at <![CDATA[ <a href="http://channelfourteen.com">http://channelfourteen.com</a> ]]></description>
+			<media:thumbnail url="https://1.bp.blogspot.com/-NngtvDyfs5o/YJMoHwNv4HI/AAAAAAAABAc/JCEhw4yBpVIV1xAKa7FRwYMUDxmTi0VLgCLcBGAsYHQ/s2048/ampersand.png" height="512" width="512" />
+			<enclosure
+				length="22600456" 
+				type="audio/mpeg" 
+				url="https://archive.org/download/20230910roshp1/20230910roshp1.mp3" />
+			<guid isPermaLink="false">https://archive.org/download/20230910roshp1/20230910roshp1.mp3</guid>
+			<pubDate>Tue, 31 October 2023 03:00:00 PDT</pubDate>
+			<itunes:explicit>false</itunes:explicit>
+		</item>		
+		
+	
+		
+			<!-- RODS ESCOBAR 2	-->
+		
+		<item>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>45</itunes:episode>
+			<title>You Accomplish a Task One Day at a Time: Life After UA&#38;P With Rods Escobar</title>
+			<description>Today in the cas garden, Rods Escobar talks about working in an agency, setting up a top restaurant in Antipolo, rescuing a cat, and podcasting as therapy. Shownotes at <![CDATA[ <a href="http://channelfourteen.com">http://channelfourteen.com</a> ]]></description>
+			<media:thumbnail url="https://1.bp.blogspot.com/-NngtvDyfs5o/YJMoHwNv4HI/AAAAAAAABAc/JCEhw4yBpVIV1xAKa7FRwYMUDxmTi0VLgCLcBGAsYHQ/s2048/ampersand.png" height="512" width="512" />
+			<enclosure
+				length="19201395" 
+				type="audio/mpeg" 
+				url="https://archive.org/download/20230716rodsescobarp2/20230716rodsescobarp2.mp3" />
+			<guid isPermaLink="false">https://archive.org/download/20230716rodsescobarp2/20230716rodsescobarp2.mp3</guid>
+			<pubDate>Wed, 11 October 2023 03:00:00 PDT</pubDate>
+			<itunes:explicit>false</itunes:explicit>
+		</item>		
+		
+		
+		
+			<!-- RODS ESCOBAR 1 -->	
+		
+		<item>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>44</itunes:episode>
+			<title>Even Until Now, Baon-baon Ko Pa: Life in UA&#38;P With Rods Escobar</title>
+			<description>Today in the cas garden, Rods Escobar talks about his life as a student in UA&amp;P. Shownotes at <![CDATA[ <a href="http://channelfourteen.com">http://channelfourteen.com</a> ]]></description>
+			<media:thumbnail url="https://1.bp.blogspot.com/-NngtvDyfs5o/YJMoHwNv4HI/AAAAAAAABAc/JCEhw4yBpVIV1xAKa7FRwYMUDxmTi0VLgCLcBGAsYHQ/s2048/ampersand.png" height="512" width="512" />
+			<enclosure
+				length="13699804" 
+				type="audio/mpeg" 
+				url="https://archive.org/download/20230716rodsescobarp1/20230716rodsescobarp1.mp3" />
+			<guid isPermaLink="false">https://archive.org/download/20230716rodsescobarp1/20230716rodsescobarp1.mp3</guid>
+			<pubDate>Wed, 20 September 2023 03:00:00 PDT</pubDate>
+			<itunes:explicit>false</itunes:explicit>
+		</item>		
+		
+		
+			
+			<!-- KAT OLAN 3 -->	
+		
+		<item>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>43</itunes:episode>
+			<title>Our Next Seven Weeks: What's Next for Kat Olan</title>
+			<description>Today in the cas garden, Kat Olan talks about her upcoming projects. Shownotes at <![CDATA[ <a href="http://channelfourteen.com">http://channelfourteen.com</a> ]]></description>
+			<media:thumbnail url="https://1.bp.blogspot.com/-NngtvDyfs5o/YJMoHwNv4HI/AAAAAAAABAc/JCEhw4yBpVIV1xAKa7FRwYMUDxmTi0VLgCLcBGAsYHQ/s2048/ampersand.png" height="512" width="512" />
+			<enclosure
+				length="9663408" 
+				type="audio/mpeg" 
+				url="https://archive.org/download/20230625katolanp3/20230625katolanp3.mp3" />
+			<guid isPermaLink="false">https://archive.org/download/20230625katolanp3/20230625katolanp3.mp3</guid>
+			<pubDate>Wed, 26 July 2023 03:00:00 PDT</pubDate>
+			<itunes:explicit>false</itunes:explicit>
+		</item>		
+		
+	
+		
+			<!-- KAT OLAN 2 -->
+		
+		<item>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>42</itunes:episode>
+			<title>What We're Doing Has a Sense of Purpose: Life after UA&amp;P with Kat Olan</title>
+			<description>Today in the cas garden, Kat Olan talks about working as a copywriter in Dentsu Jayme Syfu, self publishing her novel Tablay, and her life after UA&amp;P. Shownotes at <![CDATA[ <a href="http://channelfourteen.com">http://channelfourteen.com</a> ]]></description>
+			<media:thumbnail url="https://1.bp.blogspot.com/-NngtvDyfs5o/YJMoHwNv4HI/AAAAAAAABAc/JCEhw4yBpVIV1xAKa7FRwYMUDxmTi0VLgCLcBGAsYHQ/s2048/ampersand.png" height="512" width="512" />
+			<enclosure
+				length="16239348" 
+				type="audio/mpeg" 
+				url="https://archive.org/download/20230625katolanp2/20230625katolanp2.mp3" />
+			<guid isPermaLink="false">https://archive.org/download/20230625katolanp2/20230625katolanp2.mp3</guid>
+			<pubDate>Sat, 15 July 2023 03:00:00 PDT</pubDate>
+			<itunes:explicit>false</itunes:explicit>
+		</item>		
+		
+		-->	
+		
+				<!-- KAT OLAN 1 -->
+		
+		<item>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>41</itunes:episode>
+			<title>Unlocking Core Memories: Life in UA&#38;P with Kat Olan</title>
+			<description>Today in the cas garden, Kat Olan talks about her life as a UA&amp;P student. Shownotes at <![CDATA[ <a href="http://channelfourteen.com">http://channelfourteen.com</a> ]]></description>
+			<media:thumbnail url="https://1.bp.blogspot.com/-NngtvDyfs5o/YJMoHwNv4HI/AAAAAAAABAc/JCEhw4yBpVIV1xAKa7FRwYMUDxmTi0VLgCLcBGAsYHQ/s2048/ampersand.png" height="512" width="512" />
+			<enclosure
+				length="14159268" 
+				type="audio/mpeg" 
+				url="https://archive.org/download/20230625katolanp-1/20230625katolanp1.mp3" />
+			<guid isPermaLink="false">https://archive.org/download/20230625katolanp-1/20230625katolanp1.mp3</guid>
+			<pubDate>Wed, 5 July 2023 03:00:00 PDT</pubDate>
+			<itunes:explicit>false</itunes:explicit>
+		</item>		
+		
+		-->	
+
+				<!-- JO SERRANO 2 	-->	
+		
+		<item>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>40</itunes:episode>
+			<title>People Need to Know About the Places Here in The Philippines: Jo Serrano's Life After UA&#38;P</title>
+			<description>Today in the cas garden, Jo Serrano talks about her experience in HSBC's KYC department and her journey as a content creator. Shownotes at <![CDATA[ <a href="http://channelfourteen.com">http://channelfourteen.com</a> ]]></description>
+			<media:thumbnail url="https://1.bp.blogspot.com/-NngtvDyfs5o/YJMoHwNv4HI/AAAAAAAABAc/JCEhw4yBpVIV1xAKa7FRwYMUDxmTi0VLgCLcBGAsYHQ/s2048/ampersand.png" height="512" width="512" />
+			<enclosure
+				length="23038210" 
+				type="audio/mpeg" 
+				url="https://archive.org/download/20230312joserrano2/20230312joserrano2.mp3" />
+			<guid isPermaLink="false">https://archive.org/download/20230312joserrano2/20230312joserrano2.mp3</guid>
+			<pubDate>Wed, 5 April 2023 03:00:00 PDT</pubDate>
+			<itunes:explicit>false</itunes:explicit>
+		</item>		
+		
+	
+		
+		
+		<!-- JO SERRANO -->
+		
+		<item>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>39</itunes:episode>
+			<title>You Have to Enjoy What You Do: Life in UA&#38;P with Jo Serrano</title>
+			<description>Today in the cas garden, Jo Serrano talks about her experience in UA&amp;P. Shownotes at <![CDATA[ <a href="http://channelfourteen.com">http://channelfourteen.com</a> ]]></description>
+			<media:thumbnail url="https://1.bp.blogspot.com/-NngtvDyfs5o/YJMoHwNv4HI/AAAAAAAABAc/JCEhw4yBpVIV1xAKa7FRwYMUDxmTi0VLgCLcBGAsYHQ/s2048/ampersand.png" height="512" width="512" />
+			<enclosure
+				length="18331978" 
+				type="audio/mpeg" 
+				url="https://archive.org/download/20230312joserrano/20230312joserrano.mp3" />
+			<guid isPermaLink="false">https://archive.org/download/20230312joserrano/20230312joserrano.mp3</guid>
+			<pubDate>Wed, 22 March 2023 03:00:00 PDT</pubDate>
+			<itunes:explicit>false</itunes:explicit>
+		</item>		
+		
+		-->	
+		
+		<!-- NORM2 -->
+		
+		<item>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>38</itunes:episode>
+			<title>Writing My Own Job Orders: Life After UA&#38;P with Norman Tan</title>
+			<description>Today in the cas garden, Norman Tan talks about his time after UA&amp;P. Shownotes at <![CDATA[ <a href="http://channelfourteen.com">http://channelfourteen.com</a> ]]></description>
+			<media:thumbnail url="https://1.bp.blogspot.com/-NngtvDyfs5o/YJMoHwNv4HI/AAAAAAAABAc/JCEhw4yBpVIV1xAKa7FRwYMUDxmTi0VLgCLcBGAsYHQ/s2048/ampersand.png" height="512" width="512" />
+			<enclosure
+				length="18579860" 
+				type="audio/mpeg" 
+				url="https://archive.org/download/20221030normp2/20221030Normp2.mp3" />
+			<guid isPermaLink="false">https://archive.org/download/20221030normp2/20221030Normp2.mp3</guid>
+			<pubDate>Wed, 16 November 2022 03:00:00 PDT</pubDate>
+			<itunes:explicit>false</itunes:explicit>
+		</item>		
+		
+		-->	
+		
+		<!-- NORM1 -->
+		
+		<item>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>37</itunes:episode>
+			<title>Choosing Schools Based on Toilet Facilities: Life in UA&#38;P with Norman Tan</title>
+			<description>Today in the cas garden, Norman Tan talks about his time in UA&amp;P. Shownotes at <![CDATA[ <a href="http://channelfourteen.com">http://channelfourteen.com</a> ]]></description>
+			<media:thumbnail url="https://1.bp.blogspot.com/-NngtvDyfs5o/YJMoHwNv4HI/AAAAAAAABAc/JCEhw4yBpVIV1xAKa7FRwYMUDxmTi0VLgCLcBGAsYHQ/s2048/ampersand.png" height="512" width="512" />
+			<enclosure
+				length="16859780" 
+				type="audio/mpeg" 
+				url="https://archive.org/download/20221030normp1/20221030Normp1.mp3" />
+			<guid isPermaLink="false">https://archive.org/download/20221030normp1/20221030Normp1.mp3</guid>
+			<pubDate>Wed, 9 November 2022 03:00:00 PDT</pubDate>
+			<itunes:explicit>false</itunes:explicit>
+		</item>		
+		
+	
+		
+		<!-- GABBY	-->	
+		
+		<item>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>36</itunes:episode>
+			<title>Acting Ideally in an Unideal World: Gabby Ignacio&#39;s UA&#38;P Story</title>
+			<description>Today in the cas garden, Gabby Ignacio talks about his life in UA&amp;P and his journey in the worlds of finance, data science, and AI after graduation.. Links in the shownotes at <![CDATA[ <a href="http://channelfourteen.com">http://channelfourteen.com</a> ]]></description>
+			<media:thumbnail url="https://1.bp.blogspot.com/-NngtvDyfs5o/YJMoHwNv4HI/AAAAAAAABAc/JCEhw4yBpVIV1xAKa7FRwYMUDxmTi0VLgCLcBGAsYHQ/s2048/ampersand.png" height="512" width="512" />
+			<enclosure
+				length="21776908" 
+				type="audio/mpeg" 
+				url="https://archive.org/download/20211107gab/20211107gab.mp3" />
+			<guid isPermaLink="false">https://archive.org/download/20211107gab/20211107gab.mp3</guid>
+			<pubDate>Wed, 5 January 2022 03:00:00 PDT</pubDate>
+			<itunes:explicit>false</itunes:explicit>
+		</item>		
+		
+	
+		
+		<!-- JAMIE GELLOR PART TWO -->
+		
+		<item>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>35</itunes:episode>
+			<title>You&#39;re On Your Own, Girl: Life After UA&#38;P With Jamie Gellor</title>
+			<description>Today in the cas garden, Jamie Gellor talks about the Tabang Malaybalay Foundation, settling down, and how life has been after UA&#38;P. Links in the shownotes at <![CDATA[ <a href="http://channelfourteen.com">http://channelfourteen.com</a> ]]></description>
+			<media:thumbnail url="https://1.bp.blogspot.com/-NngtvDyfs5o/YJMoHwNv4HI/AAAAAAAABAc/JCEhw4yBpVIV1xAKa7FRwYMUDxmTi0VLgCLcBGAsYHQ/s1600/ampersand.png" height="512" width="512" />
+			<enclosure
+				length="14922269" 
+				type="audio/mpeg" 
+				url="https://archive.org/download/20211024jamiep2/20211024jamiep2.mp3" />
+			<guid isPermaLink="false">https://archive.org/download/20211024jamiep2/20211024jamiep2.mp3</guid>
+			<pubDate>Fri, 7 January 2022 03:00:00 PDT</pubDate>
+			<itunes:explicit>false</itunes:explicit>
+		</item>		
+		
+	
+		<!-- JAMIE GELLOR PART ONE -->	
+		
+		<item>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>34</itunes:episode>
+			<title>We Look Out For Each Other: Life in UA&#38;P With Jamie Gellor</title>
+			<description>Today in the cas garden, Jamie Gellor talks about her time as an IMC student in UA&#38;P from a small city in Bukidnon. Links in the shownotes at <![CDATA[ <a href="http://channelfourteen.com">http://channelfourteen.com</a> ]]></description>
+			<media:thumbnail url="https://1.bp.blogspot.com/-NngtvDyfs5o/YJMoHwNv4HI/AAAAAAAABAc/JCEhw4yBpVIV1xAKa7FRwYMUDxmTi0VLgCLcBGAsYHQ/s1600/ampersand.png" height="512" width="512" />
+			<enclosure
+				length="15451579" 
+				type="audio/mpeg" 
+				url="https://archive.org/download/20211024jamiep1/20211024jamiep1.mp3" />
+			<guid isPermaLink="false">https://archive.org/download/20211024jamiep1/20211024jamiep1.mp3</guid>
+			<pubDate>Wed, 5 January 2022 03:00:00 PDT</pubDate>
+			<itunes:explicit>false</itunes:explicit>
+		</item>		
+		
+		<!-- CHRISTMAS -->
+		
+		<item>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>33</itunes:episode>
+			<title>A Quick Christmas Update and Odette Stuff</title>
+			<description>Today in the cas garden, Joao has no electricity.</description>
+			<media:thumbnail url="https://1.bp.blogspot.com/-NngtvDyfs5o/YJMoHwNv4HI/AAAAAAAABAc/JCEhw4yBpVIV1xAKa7FRwYMUDxmTi0VLgCLcBGAsYHQ/s2048/ampersand.png" height="512" width="512" />
+			<enclosure
+				length="1600293" 
+				type="audio/mpeg" 
+				url="https://archive.org/download/20211225christmas/20211225christmas.mp3" />
+			<guid isPermaLink="false">https://archive.org/download/20211225christmas/20211225christmas.mp3</guid>
+			<pubDate>Sat, 25 December 2021 03:00:00 PDT</pubDate>
+			<itunes:explicit>false</itunes:explicit>
+		</item>		
+		
+
+		<!-- JAM ALAS PART TWO -->	
+		
+		<item>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>32</itunes:episode>
+			<title>Group Yourselves Into a Podcast: Life After UA&#38;P With Jam Alas</title>
+			<description>Today in the cas garden, Jam Alas talks about dropping the JJ at Magic 89.9, memorable interviews, and the fire nation attacking. Links in the shownotes at <![CDATA[ <a href="http://channelfourteen.com">http://channelfourteen.com</a> ]]></description>
+			<media:thumbnail url="https://1.bp.blogspot.com/-NngtvDyfs5o/YJMoHwNv4HI/AAAAAAAABAc/JCEhw4yBpVIV1xAKa7FRwYMUDxmTi0VLgCLcBGAsYHQ/s2048/ampersand.png" height="512" width="512" />
+			<enclosure
+				length="18018704" 
+				type="audio/mpeg" 
+				url="https://archive.org/download/20211017jamp2/20211017jamp2.mp3" />
+			<guid isPermaLink="false">https://archive.org/download/20211017jamp2/20211017jamp2.mp3</guid>
+			<pubDate>Wed, 16 December 2021 03:00:00 PDT</pubDate>
+			<itunes:explicit>false</itunes:explicit>
+		</item>		
+		
+	
+		
+		
+		<!-- JAM ALAS PART ONE 	-->	
+		
+		<item>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>31</itunes:episode>
+			<title>It Was a Lot More Fun Than Was Advertised: UA&#38;P With Jam Alas</title>
+			<description>Today in the cas garden, Jam Alas talks about her time as a student in UA&#38;P IMC and being a student jock in Magic 89.9. Links in the shownotes at <![CDATA[ <a href="http://channelfourteen.com">http://channelfourteen.com</a> ]]></description>
+			<media:thumbnail url="https://1.bp.blogspot.com/-NngtvDyfs5o/YJMoHwNv4HI/AAAAAAAABAc/JCEhw4yBpVIV1xAKa7FRwYMUDxmTi0VLgCLcBGAsYHQ/s2048/ampersand.png" height="512" width="512" />
+			<enclosure
+				length="18526357" 
+				type="audio/mpeg" 
+				url="https://archive.org/download/20211017jamp1/20211017jamp1.mp3" />
+			<guid isPermaLink="false">https://archive.org/download/20211017jamp1/20211017jamp1.mp3</guid>
+			<pubDate>Wed, 8 December 2021 03:00:00 PDT</pubDate>
+			<itunes:explicit>false</itunes:explicit>
+		</item>		
+		
+		
+		
+		<!-- SEMBREAK@@@!!!! -->
+		
+		
+		<!-- IZA ELISES PART TWO -->	
+		
+		<item>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>30</itunes:episode>
+			<title>I Now Know It Was Good For Me: Life After UA&#38;P with Iza Elises</title>
+			<description>Today in the cas garden, we talk to Iza Elises about handling toddlers, being school principal in a small Batangas town, and eventually going back to work in UA&#38;P. Links in the shownotes at <![CDATA[ <a href="http://channelfourteen.com">http://channelfourteen.com</a> ]]></description>
+			<media:thumbnail url="https://1.bp.blogspot.com/-NngtvDyfs5o/YJMoHwNv4HI/AAAAAAAABAc/JCEhw4yBpVIV1xAKa7FRwYMUDxmTi0VLgCLcBGAsYHQ/s2048/ampersand.png" height="512" width="512" />
+			<enclosure
+				length="21160235" 
+				type="audio/mpeg" 
+				url="https://archive.org/download/20210913izap2/20210913izap2.mp3" />
+			<guid isPermaLink="false">https://archive.org/download/20210913izap2/20210913izap2.mp3</guid>
+			<pubDate>Wed, 17 November 2021 03:00:00 PDT</pubDate>
+			<itunes:explicit>false</itunes:explicit>
+		</item>		
+		
+			
+			
+		<!-- IZA ELISES PART ONE -->	
+		
+		<item>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>29</itunes:episode>
+			<title>Always Take a Moment to Look Up: Life as a UA&#38;P Student with Iza Elises</title>
+			<description>Today in the cas garden, we talk to Iza Elises about the greatest play that never was, her memories with the late Alexis Tioseco, and her Korean neighbors doing the nasty. Links in the shownotes at <![CDATA[ <a href="http://channelfourteen.com">http://channelfourteen.com</a> ]]></description>
+			<media:thumbnail url="https://1.bp.blogspot.com/-NngtvDyfs5o/YJMoHwNv4HI/AAAAAAAABAc/JCEhw4yBpVIV1xAKa7FRwYMUDxmTi0VLgCLcBGAsYHQ/s2048/ampersand.png" height="512" width="512" />
+			<enclosure
+				length="22516297" 
+				type="audio/mpeg" 
+				url="https://archive.org/download/20210913izap1/20210913izap1.mp3" />
+			<guid isPermaLink="false">https://archive.org/download/20210913izap1/20210913izap1.mp3</guid>
+			<pubDate>Wed, 10 November 2021 03:00:00 PDT</pubDate>
+			<itunes:explicit>false</itunes:explicit>
+		</item>		
+		
+		
+		
+		<!-- GIAN KALAW PART TWO -->	
+		
+		<item>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>28</itunes:episode>
+			<title>When Your Patient Says Thank You: Life After UA&#38;P with Gian Kalaw</title>
+			<description>Today in the cas garden, Gian Kalaw talks about corporate life, working with medreps and the decision to study occupational therapy. Links in the shownotes at <![CDATA[ <a href="http://channelfourteen.com">http://channelfourteen.com</a> ]]></description>
+			<media:thumbnail url="https://1.bp.blogspot.com/-NngtvDyfs5o/YJMoHwNv4HI/AAAAAAAABAc/JCEhw4yBpVIV1xAKa7FRwYMUDxmTi0VLgCLcBGAsYHQ/s2048/ampersand.png" height="512" width="512" />
+			<enclosure
+				length="18833701" 
+				type="audio/mpeg" 
+				url="https://archive.org/download/20210905gianp2/20210905gianp2.mp3" />
+			<guid isPermaLink="false">https://archive.org/download/20210905gianp2/20210905gianp2.mp3</guid>
+			<pubDate>Wed, 3 November 2021 03:00:00 PDT</pubDate>
+			<itunes:explicit>false</itunes:explicit>
+		</item>		
+		
+		
+			
+		<!-- GIAN KALAW PART ONE -->	
+		
+		<item>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>27</itunes:episode>
+			<title>That's the Stuff: Life in UA&#38;P with Gian Kalaw</title>
+			<description>Today in the cas garden, Gian Kalaw talks about his time as an MSCM student in UA&#38;P, work in Viare, and living in Ortigas. Links in the shownotes at <![CDATA[ <a href="http://channelfourteen.com">http://channelfourteen.com</a> ]]></description>
+			<media:thumbnail url="https://1.bp.blogspot.com/-NngtvDyfs5o/YJMoHwNv4HI/AAAAAAAABAc/JCEhw4yBpVIV1xAKa7FRwYMUDxmTi0VLgCLcBGAsYHQ/s2048/ampersand.png" height="512" width="512" />
+			<enclosure
+				length="32430189" 
+				type="audio/mpeg" 
+				url="https://archive.org/download/20210905gianp1/20210905gianp1.mp3" />
+			<guid isPermaLink="false">https://archive.org/download/20210905gianp1/20210905gianp1.mp3</guid>
+			<pubDate>Wed, 27 October 2021 03:00:00 PDT</pubDate>
+			<itunes:explicit>false</itunes:explicit>
+		</item>		
+		
+		
+		
+		<!-- LEOREN VIOLAN PART TWO -->	
+		
+		<item>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>26</itunes:episode>
+			<title>I Think It&#39;s Time: Leoren Violan&#39;s Life After Graduating From UA&#38;P</title>
+			<description>Today in the cas garden, it&#39;s our second part of our conversation with Leoren Violan where we talk about a little bit about theater and a bit more about her time working in Asus. Links in the shownotes at <![CDATA[ <a href="http://channelfourteen.com">http://channelfourteen.com</a> ]]></description>
+			<media:thumbnail url="https://1.bp.blogspot.com/-NngtvDyfs5o/YJMoHwNv4HI/AAAAAAAABAc/JCEhw4yBpVIV1xAKa7FRwYMUDxmTi0VLgCLcBGAsYHQ/s2048/ampersand.png" height="512" width="512" />
+			<enclosure
+				length="20429166" 
+				type="audio/mpeg" 
+				url="https://archive.org/download/20210829leorenp2/20210829leorenp2.mp3" />
+			<guid isPermaLink="false">https://archive.org/download/20210829leorenp2/20210829leorenp2.mp3</guid>
+			<pubDate>Wed, 20 October 2021 03:00:00 PDT</pubDate>
+			<itunes:explicit>false</itunes:explicit>
+		</item>		
+		
+			
+			
+		<!-- LEOREN VIOLAN PART ONE	-->	
+		
+		<item>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>25</itunes:episode>
+			<title>Let Me Just Do Me: Life as a UA&#38;P Student with Leoren Violan</title>
+			<description>Today in the cas garden, we talk to Leoren Violan about, her nickname, UA&#38;P theater, and getting her phone stolen in McDonalds. Links in the shownotes at <![CDATA[ <a href="http://channelfourteen.com">http://channelfourteen.com</a> ]]></description>
+			<media:thumbnail url="https://1.bp.blogspot.com/-NngtvDyfs5o/YJMoHwNv4HI/AAAAAAAABAc/JCEhw4yBpVIV1xAKa7FRwYMUDxmTi0VLgCLcBGAsYHQ/s2048/ampersand.png" height="512" width="512" />
+			<enclosure
+				length="19983865" 
+				type="audio/mpeg" 
+				url="https://archive.org/download/20210829leorenp1/20210829leorenp1.mp3" />
+			<guid isPermaLink="false">https://archive.org/download/20210829leorenp1/20210829leorenp1.mp3</guid>
+			<pubDate>Wed, 13 October 2021 03:00:00 PDT</pubDate>
+			<itunes:explicit>false</itunes:explicit>
+		</item>		
+		
+	
+		<!-- RIA AND DAVE PART TWO -->
+		
+		<item>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>26</itunes:episode>
+			<title>The World Will Know the Real Story: Life After UA&#38;P Graduation With Ria and David Nakpil</title>
+			<description>Today in the cas garden, Ria and David Nakpil talk about teaching in UA&amp;P, Niku-Niku, the airline industry in the pandemic, and their love story. Links in the shownotes at <![CDATA[ <a href="http://channelfourteen.com">http://channelfourteen.com</a> ]]></description>
+			<media:thumbnail url="https://1.bp.blogspot.com/-NngtvDyfs5o/YJMoHwNv4HI/AAAAAAAABAc/JCEhw4yBpVIV1xAKa7FRwYMUDxmTi0VLgCLcBGAsYHQ/s2048/ampersand.png" height="512" width="512" />
+			<enclosure
+				length="40926774" 
+				type="audio/mpeg" 
+				url="https://archive.org/download/20210823daveriapap2/20210823daveriapap2.mp3" />
+			<guid isPermaLink="false">https://archive.org/download/20210823daveriapap2/20210823daveriapap2.mp3</guid>
+			<pubDate>Wed, 6 October 2021 03:00:00 PDT</pubDate>
+			<itunes:explicit>false</itunes:explicit>
+		</item>		
+				
+		<!-- DAVE AND RIA PART ONE -->
+		
+		<item>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>25</itunes:episode>
+			<title>The World Will Not Cope For You: Life as UA&#38;P Students With Ria Cayton-Nakpil and David Nakpil</title>
+			<description>Today in the cas garden, Ria Cayton-Nakpil and David Nakpil talk about their experiences as Humanities students in UA&#38;P, balancing academics with extra curricular activities, and mental health. Links in the shownotes at <![CDATA[ <a href="http://channelfourteen.com">http://channelfourteen.com</a> ]]></description>
+			<media:thumbnail url="https://1.bp.blogspot.com/-NngtvDyfs5o/YJMoHwNv4HI/AAAAAAAABAc/JCEhw4yBpVIV1xAKa7FRwYMUDxmTi0VLgCLcBGAsYHQ/s2048/ampersand.png" height="512" width="512" />
+			<enclosure
+				length="41643660" 
+				type="audio/mpeg" 
+				url="https://archive.org/download/20210823daveriapap1/20210823daveriapap1.mp3" />
+			<guid isPermaLink="false">https://archive.org/download/20210823daveriapap1/20210823daveriapap1.mp3</guid>
+			<pubDate>Wed, 29 September 2021 03:00:00 PDT</pubDate>
+			<itunes:explicit>false</itunes:explicit>
+		</item>		
+		
+
+					
+		<!-- LOLO PART TWO -->	
+		
+		<item>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>24</itunes:episode>
+			<title>Visco Vision 2020: Lorenze Visco&#39;s Life After Graduating From UA&#38;P</title>
+			<description>Today in the cas garden, Lolo Visco talks about working as a photographer, being UA&#38;P&#39;s resident Gen Z whisperer, and student life in Australia. Links in the shownotes at <![CDATA[ <a href="http://channelfourteen.com">http://channelfourteen.com</a> ]]></description>
+			<media:thumbnail url="https://1.bp.blogspot.com/-NngtvDyfs5o/YJMoHwNv4HI/AAAAAAAABAc/JCEhw4yBpVIV1xAKa7FRwYMUDxmTi0VLgCLcBGAsYHQ/s2048/ampersand.png" height="512" width="512" />
+			<enclosure
+				length="36988848"
+				type="audio/mpeg" 
+				url="https://archive.org/download/20210808lolop2/20210808lolop2.mp3" />
+			<guid isPermaLink="false">https://archive.org/download/20210808lolop2/20210808lolop2.mp3</guid>
+			<pubDate>Wed, 22 September 2021 03:00:00 PDT</pubDate>
+			<itunes:explicit>false</itunes:explicit>
+		</item>		
+		
+				
+		<!-- LOLO PART ONE -->	
+		
+		<item>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>23</itunes:episode>
+			<title>Let There be Light: Lorenze Visco&#39;s UA&#38;P Student Life</title>
+			<description>Today in the cas garden, we talk to Lolo Visco about his life as a student in UA&#38;P. Links in the shownotes at <![CDATA[ <a href="http://channelfourteen.com">http://channelfourteen.com</a> ]]></description>
+			<media:thumbnail url="https://1.bp.blogspot.com/-NngtvDyfs5o/YJMoHwNv4HI/AAAAAAAABAc/JCEhw4yBpVIV1xAKa7FRwYMUDxmTi0VLgCLcBGAsYHQ/s2048/ampersand.png" height="512" width="512" />
+			<enclosure
+				length="26029659" 
+				type="audio/mpeg" 
+				url="https://archive.org/download/20210808lolop1/20210808lolop1.mp3" />
+			<guid isPermaLink="false">https://archive.org/download/20210808lolop1/20210808lolop1.mp3</guid>
+			<pubDate>Wed, 15 September 2021 03:00:00 PDT</pubDate>
+			<itunes:explicit>false</itunes:explicit>
+		</item>		
+		
+		
+		<!-- ERIN PART TWO -->
+
+		<item>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>22</itunes:episode>
+			<title>Work, Motherhood, and Life in Bacolod with Erin Locsin Esteleydes</title>
+			<description>>Today in the cas garden, Erin Locsin Esteleydes talks about life after UA&amp;P, including work, theater, starting a family, and argi-business among other things.. Links in the shownotes at <![CDATA[ <a href="http://channelfourteen.com">http://channelfourteen.com</a> ]]></description>
+			<media:thumbnail url="https://1.bp.blogspot.com/-NngtvDyfs5o/YJMoHwNv4HI/AAAAAAAABAc/JCEhw4yBpVIV1xAKa7FRwYMUDxmTi0VLgCLcBGAsYHQ/s2048/ampersand.png" height="512" width="512" />
+			<enclosure
+				length="29058633" 
+				type="audio/mpeg" 
+				url="https://archive.org/download/20210801erinp2/20210801erinp2.mp3" />
+			<guid isPermaLink="false">https://archive.org/download/20210801erinp2/20210801erinp2.mp3</guid>
+			<pubDate>Wed, 8 September 2021 03:00:00 PDT</pubDate>
+			<itunes:explicit>false</itunes:explicit>
+		</item>		
+		
+			
+		
+		<!-- ERIN PART ONE -->	
+		
+		<item>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>21</itunes:episode>
+			<title>JMC and Promoting UA&#38;P with Erin Locsin Esteleydes</title>
+			<description>Today in the cas garden, Erin Locsin Esteleydes talks about being a scholar, a performer, and promoting UA&#38;P with JMC. Links in the shownotes at <![CDATA[ <a href="http://channelfourteen.com">http://channelfourteen.com</a> ]]></description>
+			<media:thumbnail url="https://1.bp.blogspot.com/-NngtvDyfs5o/YJMoHwNv4HI/AAAAAAAABAc/JCEhw4yBpVIV1xAKa7FRwYMUDxmTi0VLgCLcBGAsYHQ/s2048/ampersand.png" height="512" width="512" />
+			<enclosure
+				length="30256007" 
+				type="audio/mpeg" 
+				url="https://archive.org/download/20210801erinp1/20210801erinp1.mp3" />
+			<guid isPermaLink="false">https://archive.org/download/20210801erinp1/20210801erinp1.mp3</guid>
+			<pubDate>Wed, 1 September 2021 03:00:00 PDT</pubDate>
+			<itunes:explicit>false</itunes:explicit>
+		</item>		
+		
+		
+		
+		
+		<!-- SPORTITO JO PART TWO -->	
+		
+		<item>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>20</itunes:episode>
+			<title>OSA, CSA, and Life After Graduation with Joel Parcon</title>
+			<description>Today in the cas garden, we talk to Joel Parcon about his journey after graduation, coming back to serve in the OSA, and reacting to MCU movies and TV shows. . Links in the shownotes at <![CDATA[ <a href="http://channelfourteen.com">http://channelfourteen.com</a> ]]></description>
+			<media:thumbnail url="https://1.bp.blogspot.com/-NngtvDyfs5o/YJMoHwNv4HI/AAAAAAAABAc/JCEhw4yBpVIV1xAKa7FRwYMUDxmTi0VLgCLcBGAsYHQ/s2048/ampersand.png" height="512" width="512" />
+			<enclosure
+				length="28125007" 
+				type="audio/mpeg" 
+				url="https://archive.org/download/20210718joelp-2/20210718joelp2.mp3" />
+			<guid isPermaLink="false">https://archive.org/download/20210718joelp-2/20210718joelp2.mp3</guid>
+			<pubDate>Wed, 25 August 2021 03:00:00 PDT</pubDate>
+			<itunes:explicit>false</itunes:explicit>
+		</item>		
+		
+	
+		
+		<!-- JOEL PARCON PART ONE -->	
+		
+		<item>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>19</itunes:episode>
+			<title>UA&#38;P Life in the Late 90s and Early 2000s with Joel Parcon</title>
+			<description>Today in the cas garden, Joel Parcon talks about when the CAS Garden was actually still a garden and how he just missed out on the time that Tolkien was required reading for Modern Lit.. Links in the shownotes at <![CDATA[ <a href="http://channelfourteen.com">http://channelfourteen.com</a> ]]></description>
+			<media:thumbnail url="https://1.bp.blogspot.com/-NngtvDyfs5o/YJMoHwNv4HI/AAAAAAAABAc/JCEhw4yBpVIV1xAKa7FRwYMUDxmTi0VLgCLcBGAsYHQ/s2048/ampersand.png" height="512" width="512" />
+			<enclosure
+				length="22296681" 
+				type="audio/mpeg" 
+				url="https://archive.org/download/20210718joelp1/20210718joelp1.mp3" />
+			<guid isPermaLink="false">https://archive.org/download/20210718joelp1/20210718joelp1.mp3</guid>
+			<pubDate>Wed, 18 August 2021 03:00:00 PDT</pubDate>
+			<itunes:explicit>false</itunes:explicit>
+		</item>	
+		
+			
+		
+		<!-- THIRD AND KEIFER PART TWO -->	
+		
+		<item>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>18</itunes:episode>
+			<title>Life after UA&#38;P with Keifer Cabugao and Third Caampued</title>
+			<description>Today in the cas garden, we talk to Third Caampued and Keifer Cabugao about Ben&amp;Ben, Mental Health, and what life was like after UA&amp;P.. Links in the shownotes at <![CDATA[ <a href="http://channelfourteen.com">http://channelfourteen.com</a> ]]></description>
+			<media:thumbnail url="https://1.bp.blogspot.com/-NngtvDyfs5o/YJMoHwNv4HI/AAAAAAAABAc/JCEhw4yBpVIV1xAKa7FRwYMUDxmTi0VLgCLcBGAsYHQ/s2048/ampersand.png" height="512" width="512" />
+			<enclosure
+				length="13165582" 
+				type="audio/mpeg" 
+				url="https://archive.org/download/20210717thirdkeiferp2/20210717thirdkeiferp2.mp3" />
+			<guid isPermaLink="false">https://archive.org/download/20210717thirdkeiferp2/20210717thirdkeiferp2.mp3</guid>
+			<pubDate>Wed, 11 August 2021 03:00:00 PDT</pubDate>
+			<itunes:explicit>false</itunes:explicit>
+		</item>	
+		
+		
+		<!-- THIRD AND KEIFER PART ONE -->
+		
+		<item>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>17</itunes:episode>
+			<title>UA&#38;P Memories with Third Caampued and Keifer Cabugao</title>
+			<description>Today in the cas garden, Third Caampued and Keifer Cabugao revisit some of their memories from UA&#38;P. Links in the shownotes at <![CDATA[ <a href="http://channelfourteen.com">http://channelfourteen.com</a> ]]></description>
+			<media:thumbnail url="https://1.bp.blogspot.com/-NngtvDyfs5o/YJMoHwNv4HI/AAAAAAAABAc/JCEhw4yBpVIV1xAKa7FRwYMUDxmTi0VLgCLcBGAsYHQ/s2048/ampersand.png" height="512" width="512" />
+			<enclosure
+				length="21228000" 
+				type="audio/mpeg" 
+				url="https://archive.org/download/20210717thirdkeiferp1/20210717thirdkeiferp1.mp3" />
+			<guid isPermaLink="false">https://archive.org/download/20210717thirdkeiferp1/20210717thirdkeiferp1.mp3</guid>
+			<pubDate>Wed, 4 August 2021 03:00:00 PDT</pubDate>
+			<itunes:explicit>false</itunes:explicit>
+		</item>	
+		
+		<!-- ESTHER PART TWO -->
+		
+		<item>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>16</itunes:episode>
+			<title>Life after UA&#38;P with Esther Suson</title>
+			<description>Today in the cas garden, Esther Suson talks about what she's been up to after UA&amp;P. Links in the shownotes at <![CDATA[ <a href="http://channelfourteen.com">http://channelfourteen.com</a> ]]></description>
+			<media:thumbnail url="https://1.bp.blogspot.com/-NngtvDyfs5o/YJMoHwNv4HI/AAAAAAAABAc/JCEhw4yBpVIV1xAKa7FRwYMUDxmTi0VLgCLcBGAsYHQ/s2048/ampersand.png" height="512" width="512" />
+			<enclosure
+				length="10262362" 
+				type="audio/mpeg" 
+				url="https://archive.org/download/20210711estherp2/20210711estherp2.mp3" />
+			<guid isPermaLink="false">https://archive.org/download/20210711estherp2/20210711estherp2.mp3</guid>
+			<pubDate>Wed, 28 July 2021 03:00:00 PDT</pubDate>
+			<itunes:explicit>false</itunes:explicit>
+		</item>	
+		
+		
+		
+		<!-- ESTHER PART ONE -->
+		
+		<item>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>15</itunes:episode>
+			<title>Life in UA&#38;P Poleco with Esther Suson</title>
+			<description>Today in the cas garden, Esther Suson talks about her time as a Poleco student in UA&#38;P. Links in the shownotes at <![CDATA[ <a href="http://channelfourteen.com">http://channelfourteen.com</a> ]]></description>
+			<media:thumbnail url="https://1.bp.blogspot.com/-NngtvDyfs5o/YJMoHwNv4HI/AAAAAAAABAc/JCEhw4yBpVIV1xAKa7FRwYMUDxmTi0VLgCLcBGAsYHQ/s2048/ampersand.png" height="512" width="512" />
+			<enclosure
+				length="21776908" 
+				type="audio/mpeg" 
+				url="https://archive.org/download/20210711estherp1/20210711estherp1.mp3" />
+			<guid isPermaLink="false">https://archive.org/download/20210711estherp1/20210711estherp1.mp3</guid>
+			<pubDate>Wed, 21 July 2021 03:00:00 PDT</pubDate>
+			<itunes:explicit>false</itunes:explicit>
+		</item>	
+		
+		<!-- CHEESE PART TWO -->
+		
+		<item>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>14</itunes:episode>
+			<title>Professional Theater in Concertus Manila and Theatre Titas with Luis Cheese Mendez</title>
+			<description>Today in the cas garden, it's the second part of our conversation with Cheese Mendez where we talk about post UA&#38;P life and professional theater. And yes, listener discretion is advised. Links in the shownotes at <![CDATA[ <a href="http://channelfourteen.com">http://channelfourteen.com</a> ]]></description>
+			<media:thumbnail url="https://1.bp.blogspot.com/-NngtvDyfs5o/YJMoHwNv4HI/AAAAAAAABAc/JCEhw4yBpVIV1xAKa7FRwYMUDxmTi0VLgCLcBGAsYHQ/s2048/ampersand.png" height="512" width="512" />
+			<enclosure
+				length="29263269" 
+				type="audio/mpeg" 
+				url="https://archive.org/download/20210627cheesep2/20210627cheesep2.mp3" />
+			<guid isPermaLink="false">https://archive.org/download/20210627cheesep2/20210627cheesep2.mp3</guid>
+			<pubDate>Wed, 14 July 2021 03:00:00 PDT</pubDate>
+			<itunes:explicit>true</itunes:explicit>
+		</item>	
+		
+		
+		<!-- CHEESE PART ONE -->
+		
+		<item>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>13</itunes:episode>
+			<title>University Theater and the UA&#38;P Journey with Luis Cheese Mendez</title>
+			<description>Today in the cas garden, it's the first part of our conversation with Cheese Mendez where we talk about the UA&#38;P journey and stint in University theater. And yes, listener discretion is advised. Links in the shownotes at <![CDATA[ <a href="http://channelfourteen.com">http://channelfourteen.com</a> ]]></description>
+			<media:thumbnail url="https://1.bp.blogspot.com/-NngtvDyfs5o/YJMoHwNv4HI/AAAAAAAABAc/JCEhw4yBpVIV1xAKa7FRwYMUDxmTi0VLgCLcBGAsYHQ/s2048/ampersand.png" height="512" width="512" />
+			<enclosure
+				length="24566977" 
+				type="audio/mpeg" 
+				url="https://archive.org/download/20210627cheesep1/20210627cheesep1.mp3" />
+			<guid isPermaLink="false">https://archive.org/download/20210627cheesep1/20210627cheesep1.mp3</guid>
+			<pubDate>Wed, 7 July 2021 03:00:00 PDT</pubDate>
+			<itunes:explicit>true</itunes:explicit>
+		</item>	
+		
+		
+		<!-- YELA PART TWO -->
+		
+		<item>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>12</itunes:episode>
+			<title>Life as a Teacher and Events Host with Yela Laguzad</title>
+			<description>Today in the cas garden, it's the second part of our conversation with alumna and high school teacher Yela Lagunzad where she talks about what she's been up to after UA&#38;P. Links in the shownotes at http://channelfourteen.com</description>
+			<media:thumbnail url="https://1.bp.blogspot.com/-NngtvDyfs5o/YJMoHwNv4HI/AAAAAAAABAc/JCEhw4yBpVIV1xAKa7FRwYMUDxmTi0VLgCLcBGAsYHQ/s2048/ampersand.png" height="512" width="512" />
+			<enclosure
+				length="14191812"
+				type="audio/mpeg" 
+				url="https://archive.org/download/20210623yelap2/20210623yelap2.mp3" />
+			<guid isPermaLink="false">https://archive.org/download/20210623yelap2/20210623yelap2.mp3</guid>
+			<pubDate>Wed, 30 June 2021 03:00:00 PDT</pubDate>
+			<itunes:explicit>false</itunes:explicit>
+		</item>	
+		
+		
+		<!-- YELA PART ONE -->
+		
+		<item>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>11</itunes:episode>
+			<title>Life as a Student with Yela Lagunzad</title>
+			<description>Today in the cas garden, it's the first part of a conversation with alumna and high school teacher Yela Lagunzad where she talks about her time as a UA&#38;P student in the mid 2010s. Links in the shownotes at http://channelfourteen.com</description>
+			<media:thumbnail url="https://1.bp.blogspot.com/-NngtvDyfs5o/YJMoHwNv4HI/AAAAAAAABAc/JCEhw4yBpVIV1xAKa7FRwYMUDxmTi0VLgCLcBGAsYHQ/s2048/ampersand.png" height="512" width="512" />
+			<enclosure
+				length="10144224" 
+				type="audio/mpeg" 
+				url="https://archive.org/download/20210623yelap1/20210623yelap1.mp3" />
+			<guid isPermaLink="false">https://archive.org/download/20210623yelap1/20210623yelap1.mp3</guid>
+			<pubDate>Wed, 23 June 2021 03:00:00 PDT</pubDate>
+			<itunes:explicit>false</itunes:explicit>
+		</item>	
+	
+	
+		
+		<!-- ARNEL JOVEN AND JOEM ANTONIO (PART 2) -->
+		
+		<item>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>10</itunes:episode>
+			<title>Dr. Arnel Joven and Dr. Joem Antonio</title>
+			<description>Today in the cas garden, it's the second part of Joao, Martin, and Miko's conversation Dr. Joem Antonio and Dr. Arnel Joven. Links in the shownotes at http://channelfourteen.com</description>
+			<media:thumbnail url="https://1.bp.blogspot.com/-NngtvDyfs5o/YJMoHwNv4HI/AAAAAAAABAc/JCEhw4yBpVIV1xAKa7FRwYMUDxmTi0VLgCLcBGAsYHQ/s2048/ampersand.png" height="512" width="512" />
+			<enclosure
+				length="18313452" 
+				type="audio/mpeg" 
+				url="https://archive.org/download/20210509arneljoemp2/20210509arneljoemp2.mp3" />
+			<guid isPermaLink="false">https://archive.org/download/20210509arneljoemp2/20210509arneljoemp2.mp3</guid>
+			<pubDate>Wed, 16 June 2021 03:00:00 PDT</pubDate>
+			<itunes:explicit>false</itunes:explicit>
+		</item>	
+		
+		
+		<!-- ARNEL JOVEN AND JOEM ANTONIO (PART 1) -->
+		
+		<item>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>9</itunes:episode>
+			<title>Dr. Joem Antonio and Dr. Arnel Joven</title>
+			<description>Today in the cas garden, it's the first part of Joao, Martin, and Miko's conversation Dr. Joem Antonio and Dr. Arnel Joven. Links in the shownotes at http://channelfourteen.com</description>
+			<media:thumbnail url="https://1.bp.blogspot.com/-NngtvDyfs5o/YJMoHwNv4HI/AAAAAAAABAc/JCEhw4yBpVIV1xAKa7FRwYMUDxmTi0VLgCLcBGAsYHQ/s2048/ampersand.png" height="512" width="512" />
+			<enclosure
+				length="19221103" 
+				type="audio/mpeg" 
+				url="https://archive.org/download/20210509arneljoemp1/20210509arneljoemp1.mp3" />
+			<guid isPermaLink="false">https://archive.org/download/20210509arneljoemp1/20210509arneljoemp1.mp3</guid>
+			<pubDate>Wed, 9 June 2021 03:00:00 PDT</pubDate>
+			<itunes:explicit>false</itunes:explicit>
+		</item>		
+
+				
+		
+		<!-- MARK VILLALUNA (PART 2) -->
+		
+		<item>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>8</itunes:episode>
+			<title>Documentary Filmmaking with Mark Villaluna</title>
+			<description>Today in the cas garden, it's the second part of our conversation with Mark Villaluna where he talks about life after UA&#38;P, his work as a teacher, and his work with ABS-CBN's #NoFilter and Manila Bulletin's MB DigiDocs. Links in the shownotes at <![CDATA[ <a href="http://channelfourteen.com">http://channelfourteen.com</a> ]]></description>
+			<media:thumbnail url="https://1.bp.blogspot.com/-NngtvDyfs5o/YJMoHwNv4HI/AAAAAAAABAc/JCEhw4yBpVIV1xAKa7FRwYMUDxmTi0VLgCLcBGAsYHQ/s2048/ampersand.png" height="512" width="512" />
+			<enclosure
+				length="13137192" 
+				type="audio/mpeg" 
+				url="https://archive.org/download/20210526markp2/20210526markp2.mp3" />
+			<guid isPermaLink="false">https://archive.org/download/20210526markp2/20210526markp2.mp3</guid>
+			<pubDate>Wed, 2 June 2021 03:00:00 PDT</pubDate>
+			<itunes:explicit>false</itunes:explicit>
+		</item>
+		
+		
+		
+		<!-- MARK VILLALUNA (PART 1) -->
+		
+		<item>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>7</itunes:episode>
+			<title>Scholars with Mark Villaluna</title>
+			<description>Today in the cas garden, it's the first part of our conversation with Mark Villaluna where he talks about life as a scholar in UA&#38;P, the Humanities, and legacy. Links in the shownotes at <![CDATA[ <a href="http://channelfourteen.com">http://channelfourteen.com</a> ]]></description>
+			<media:thumbnail url="https://1.bp.blogspot.com/-NngtvDyfs5o/YJMoHwNv4HI/AAAAAAAABAc/JCEhw4yBpVIV1xAKa7FRwYMUDxmTi0VLgCLcBGAsYHQ/s2048/ampersand.png" height="512" width="512" />
+			<enclosure
+				length="19181268" 
+				type="audio/mpeg" 
+				url="https://archive.org/download/20210526markp1/20210526markp1.mp3" />
+			<guid isPermaLink="false">https://archive.org/download/20210526markp1/20210526markp1.mp3</guid>
+			<pubDate>Wed, 26 May 2021 03:00:00 PDT</pubDate>
+			<itunes:explicit>false</itunes:explicit>
+		</item>		
+		
+		
+			
+		<!-- MIO OF THE BORROMNEANS AND LEON SON OF PECK (PART 2) -->
+		
+		<item>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>6</itunes:episode>
+			<title>Conversations with Mio Borromeo and Leon Peckson (part 2)</title>
+			<description>Today in the cas garden, we're joined by alumni and former literature teachers Leon Peckson and Mio Borromeo. Check out Mio's podcast, the Req Room. Links in the shownotes at <![CDATA[ <a href="http://channelfourteen.com">http://channelfourteen.com</a> ]]></description>
+			<media:thumbnail url="https://1.bp.blogspot.com/-NngtvDyfs5o/YJMoHwNv4HI/AAAAAAAABAc/JCEhw4yBpVIV1xAKa7FRwYMUDxmTi0VLgCLcBGAsYHQ/s2048/ampersand.png" height="512" width="512" />
+			<enclosure
+				length="21338282" 
+				type="audio/mpeg" 
+				url="https://archive.org/download/20210502leonmio2/20210502leonmio2.mp3" />
+			<guid isPermaLink="false">https://archive.org/download/20210502leonmio2/20210502leonmio2.mp3</guid>
+			<pubDate>Wed, 19 May 2021 03:00:00 PDT</pubDate>
+			<itunes:explicit>false</itunes:explicit>
+		</item>	
+
+		
+		
+		<!-- LEON SON OF PECK AND MIO OF THE BORROMNEANS (PART 1) -->
+		
+		<item>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>5</itunes:episode>
+			<title>Conversations with Leon Peckson and Mio Borromeo (part 1)</title>
+			<description>Today in the cas garden, we're joined by alumni and former literature teachers Leon Peckson and Mio Borromeo. Check out Mio's podcast, the Req Room. Links in the shownotes at <![CDATA[ <a href="http://channelfourteen.com">http://channelfourteen.com</a> ]]></description>
+			<media:thumbnail url="https://1.bp.blogspot.com/-NngtvDyfs5o/YJMoHwNv4HI/AAAAAAAABAc/JCEhw4yBpVIV1xAKa7FRwYMUDxmTi0VLgCLcBGAsYHQ/s2048/ampersand.png" height="512" width="512" />
+			<enclosure
+				length="20351559" 
+				type="audio/mpeg" 
+				url="https://archive.org/download/20210502leonmio1/20210502leonmio1.mp3" />
+			<guid isPermaLink="false">https://archive.org/download/20210502leonmio1/20210502leonmio1.mp3</guid>
+			<pubDate>Wed, 12 May 2021 03:00:00 PDT</pubDate>
+			<itunes:explicit>false</itunes:explicit>
+		</item>
+		
+		
+		
+		<!-- DARTH FUCKING VIDA -->
+		
+		<item>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>4</itunes:episode>
+			<title>Talking online class with Vida Gruet</title>
+			<description>Today in the CAS Garden, we're joined by Darth Vida Gruet. Originally recorded last year as the second part of a Bodega Nights episode also featuring Javi Laurel. You might want to check that out as well.</description>
+			<media:thumbnail url="https://1.bp.blogspot.com/-NngtvDyfs5o/YJMoHwNv4HI/AAAAAAAABAc/JCEhw4yBpVIV1xAKa7FRwYMUDxmTi0VLgCLcBGAsYHQ/s2048/ampersand.png" height="512" width="512" />
+			<enclosure
+				length="29688072" 
+				type="audio/mpeg" 
+				url="https://archive.org/download/20210417vidagruet/20210417VidaGruet.mp3" />
+			<guid isPermaLink="false">https://archive.org/download/20210417vidagruet/20210417VidaGruet.mp3</guid>
+			<pubDate>Wed, 5 May 2021 03:00:00 PDT</pubDate>
+			<itunes:explicit>false</itunes:explicit>
+		</item>
+		
+		
+		
+		<!-- MR. ETHICOOL -->
+		
+		<item>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>3</itunes:episode>
+			<title>The CAS Garden With Dean Mejos</title>
+			<description> Today in the CAS Garden we're joined by philosophy teacher Dean Mejos.</description>
+			<media:thumbnail url="https://1.bp.blogspot.com/-NngtvDyfs5o/YJMoHwNv4HI/AAAAAAAABAc/JCEhw4yBpVIV1xAKa7FRwYMUDxmTi0VLgCLcBGAsYHQ/s2048/ampersand.png" height="512" width="512"/>
+			<enclosure 
+				length="21913608" 
+				type="audio/mpeg" 
+				url="https://archive.org/download/20210412-dean-mejos/20210412DeanMejos.mp3"/>
+			<guid isPermaLink="false">https://archive.org/download/20210412-dean-mejos/20210412DeanMejos.mp3</guid>
+			<pubDate>Tue, 27 Apr 2021 00:37:15 PDT</pubDate>
+			<itunes:explicit>false</itunes:explicit>
+		</item>
+		
+		
+		
+		<!-- THE GMAN -->
+		
+		<item>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>2</itunes:episode>
+			<title>The CAS Garden With Gmenier Mendoza</title>
+			<description> Today in the CAS Garden we're joined by Gmenier Mendoza.</description>
+			<media:thumbnail url="https://1.bp.blogspot.com/-NngtvDyfs5o/YJMoHwNv4HI/AAAAAAAABAc/JCEhw4yBpVIV1xAKa7FRwYMUDxmTi0VLgCLcBGAsYHQ/s2048/ampersand.png" height="512" width="512"/>
+			<enclosure 
+				length="28947600" 
+				type="audio/mpeg" 
+				url="https://archive.org/download/20210419gmeniermendoza/20210419GmenierMendoza.mp3"/>
+			<guid isPermaLink="false">https://archive.org/download/20210419gmeniermendoza/20210419GmenierMendoza.mp3</guid>
+			<pubDate>Tue, 27 Apr 2021 00:22:02 PDT</pubDate>
+			<itunes:explicit>false</itunes:explicit>
+		</item>
+		
+		
+		
+		<!-- INTRO EPISODE -->
+		
+		<item>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>1</itunes:episode>
+			<title>The CAS Garden - Introductions</title>
+			<description> Hey. Welcome to the CAS Garden.</description>
+			<media:thumbnail url="https://1.bp.blogspot.com/-NngtvDyfs5o/YJMoHwNv4HI/AAAAAAAABAc/JCEhw4yBpVIV1xAKa7FRwYMUDxmTi0VLgCLcBGAsYHQ/s2048/ampersand.png" height="512" width="512"/>
+			<enclosure 
+				length="1288188" 
+				type="audio/mpeg" 
+				url="https://archive.org/download/20210101_202104/20210101.mp3"/>
+			<guid isPermaLink="false">https://archive.org/download/20210101_202104/20210101.mp3</guid>
+			<pubDate>Tue, 27 Apr 2021 00:16:39 PDT</pubDate>
+			<itunes:explicit>false</itunes:explicit>
+		</item>
+		
+	</channel>
+</rss>
