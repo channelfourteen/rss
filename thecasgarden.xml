@@ -173,16 +173,17 @@
 			<psc:chapters version="1.2" xmlns:psc="http://podlove.org/simple-chapters">
 				<psc:chapter start="0" title="intro" />
 				<psc:chapter start="1:33" title="regrets" />
-				<psc:chapter start="7:00" title="bring your pet to school day" />
-				<psc:chapter start="8:42" title="make uap great again" />
-				<psc:chapter start="12:17" title="finding friends" />
-				<psc:chapter start="18:30" title="orgs in freshman year" />
-				<psc:chapter start="21:11" title="orgs for the talentless" />
-				<psc:chapter start="22:34" title="7:30 class" />
-				<psc:chapter start="32:07" title="bleep test tips" />
-				<psc:chapter start="34:39" title="best restrooms on campus" />
-				<psc:chapter start="42:39" title="date areas outside of pasig" />
-				<psc:chapter start="47:08" title="how to get into a kultura production" />
+				<psc:chapter start="6:58" title="bring your pet to school day" />
+				<psc:chapter start="8:37" title="places to sleep" />
+				<psc:chapter start="12:10" title="make uap great again" />
+				<psc:chapter start="18:19" title="finding friends" />
+				<psc:chapter start="20:59" title="orgs in freshman year" />
+				<psc:chapter start="22:23" title="orgs for the talentless" />
+				<psc:chapter start="32:00" title="7:30 class" />
+				<psc:chapter start="34:34" title="bleep test tips" />
+				<psc:chapter start="39:06" title="best restrooms on campus" />
+				<psc:chapter start="42:31" title="date areas outside of pasig" />
+				<psc:chapter start="47:03" title="how to get into a kultura production" />
 				<psc:chapter start="51:32" title="why stay in uap environment-wise" />
 				<psc:chapter start="58:38" title="how to approach a girl" />
 				<psc:chapter start="1:03:40" title="employee student relationships" />
