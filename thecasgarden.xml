@@ -168,7 +168,7 @@
 				type="audio/mpeg" 
 				url="https://archive.org/download/20240914freedomwall/20240914freedomwall.mp3" />
 			<guid isPermaLink="false">https://archive.org/download/20240914freedomwall/20240914freedomwall.mp3</guid>
-			<pubDate>Wed, 25 September 2024 03:00:00</pubDate>
+			<pubDate>Wed, 25 September 2024 03:00:00 PDT</pubDate>
 			<itunes:explicit>false</itunes:explicit>
 			<psc:chapters version="1.2" xmlns:psc="http://podlove.org/simple-chapters">
 				<psc:chapter start="0" title="intro" />
