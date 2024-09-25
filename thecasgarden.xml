@@ -155,7 +155,7 @@
 		
 		-->	
 			
-			<!-- A Very Special Episode
+			<!-- A Very Special Episode -->
 		
 		<item>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -164,10 +164,10 @@
 			<description>Today in the cas garden, we look through the Unitas Freedom Wall on Facebook and answer some questions.</description>
 			<media:thumbnail url="https://1.bp.blogspot.com/-NngtvDyfs5o/YJMoHwNv4HI/AAAAAAAABAc/JCEhw4yBpVIV1xAKa7FRwYMUDxmTi0VLgCLcBGAsYHQ/s2048/ampersand.png" height="512" width="512" />
 			<enclosure
-				length="999999" 
+				length="75254064" 
 				type="audio/mpeg" 
-				url="https://archive.org/download/20240121xvallezp1/20240121xvallezp1.mp3" />
-			<guid isPermaLink="false">https://archive.org/download/20240121xvallezp1/20240121xvallezp1.mp3</guid>
+				url="https://archive.org/download/20240914freedomwall/20240914freedomwall.mp3" />
+			<guid isPermaLink="false">https://archive.org/download/20240914freedomwall/20240914freedomwall.mp3</guid>
 			<pubDate>Sun, 10 March 2024 03:00:00 PDT</pubDate>
 			<itunes:explicit>false</itunes:explicit>
 			<psc:chapters version="1.2" xmlns:psc="http://podlove.org/simple-chapters">
@@ -191,7 +191,7 @@
 			</psc:chapters>
 		</item>	
 		
-		-->	
+			
 		
 				<!-- Bien 2 -->
 		
