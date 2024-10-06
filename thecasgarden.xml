@@ -126,34 +126,50 @@
 			</psc:chapters>		
 		</item>		
 		
-		
-		-->	
+-->	
 			
-			<!-- Migs Lopez
+			<!-- Migs Lopez 2
 		
 		<item>
 			<itunes:episodeType>full</itunes:episodeType>
-			<itunes:episode>52</itunes:episode>
-			<title>The Taxi is There, It&#39;s Waiting for Us: Life in UA&#38;P With X Vallez</title>
-			<description>Today in the cas garden, X Vallez talks about his life in UA&P. Shownotes at <![CDATA[ <a href="http://channelfourteen.com">http://channelfourteen.com</a> ]]></description>
+			<itunes:episode>53</itunes:episode>
+			<title>This Is Gonna Be The Real World, Might as Well Start Now: Life in UA&#38;P With Migs Lopez</title>
+			<description>Today in the cas garden, Migs Lopez talks about his life in UA&#38;P. Shownotes at <![CDATA[ <a href="http://channelfourteen.com">http://channelfourteen.com</a> ]]></description>
 			<media:thumbnail url="https://1.bp.blogspot.com/-NngtvDyfs5o/YJMoHwNv4HI/AAAAAAAABAc/JCEhw4yBpVIV1xAKa7FRwYMUDxmTi0VLgCLcBGAsYHQ/s2048/ampersand.png" height="512" width="512" />
 			<enclosure
-				length="11356776" 
+				length="38622575" 
 				type="audio/mpeg" 
-				url="https://archive.org/download/20240121xvallezp1/20240121xvallezp1.mp3" />
-			<guid isPermaLink="false">https://archive.org/download/20240121xvallezp1/20240121xvallezp1.mp3</guid>
-			<pubDate>Sun, 10 March 2024 03:00:00 PDT</pubDate>
+				url="https://archive.org/download/20240915migslopezp1/20240915migslopezp1.mp3" />
+			<guid isPermaLink="false">https://archive.org/download/20240915migslopezp1/20240915migslopezp1.mp3</guid>
+			<pubDate>Sun, 6 October 2024 03:00:00 PDT</pubDate>
 			<itunes:explicit>false</itunes:explicit>
-			<psc:chapters version="1.2" xmlns:psc="http://podlove.org/simple-chapters">
-				<psc:chapter start="0" title="Welcome" />
-				<psc:chapter start="3:07" title="Introducing Podlove" href="http://podlove.org/" image="url"/>
-				<psc:chapter start="8:26.250" title="Podlove WordPress Plugin" href="http://podlove.org/podlove-podcast-publisher" />
-				<psc:chapter start="12:42" title="Resumée" />
-			</psc:chapters>
 		</item>		
 		
 		
 		-->	
+
+
+
+			
+			<!-- Migs Lopez 1 -->
+		
+		<item>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>53</itunes:episode>
+			<title>This Is Gonna Be The Real World, Might as Well Start Now: Life in UA&#38;P With Migs Lopez</title>
+			<description>Today in the cas garden, Migs Lopez talks about Infusion, Dr. Terosa, and life in UA&#38;P. Shownotes at <![CDATA[ <a href="http://channelfourteen.com">http://channelfourteen.com</a> ]]></description>
+			<media:thumbnail url="https://1.bp.blogspot.com/-NngtvDyfs5o/YJMoHwNv4HI/AAAAAAAABAc/JCEhw4yBpVIV1xAKa7FRwYMUDxmTi0VLgCLcBGAsYHQ/s2048/ampersand.png" height="512" width="512" />
+			<enclosure
+				length="38622575" 
+				type="audio/mpeg" 
+				url="https://archive.org/download/20240915migslopezp1/20240915migslopezp1.mp3" />
+			<guid isPermaLink="false">https://archive.org/download/20240915migslopezp1/20240915migslopezp1.mp3</guid>
+			<pubDate>Sun, 6 October 2024 03:00:00 PDT</pubDate>
+			<itunes:explicit>false</itunes:explicit>
+		</item>		
+		
+		
+	
 			
 			<!-- A Very Special Episode -->
 		
