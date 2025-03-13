@@ -67,7 +67,7 @@
                 	
                 		-->
 
-        <!-- Next episode 78
+        <!-- Next episode 
                 			
                 		<item>
                 			<itunes:episodeType>full</itunes:episodeType>
@@ -88,7 +88,21 @@
                 			</psc:chapters>			
                 		</item>		
                 	
-                		-->
+        Next episode -->
+
+
+            <item><itunes:episodeType>
+            full
+            </itunes:episodeType><title>
+            Bodega Nights - The Japan Episode
+            </title>
+                <description>
+                A bunch of friends get together every now and then. This podcast makes sure it happens. Welcome to Bodega Nights.
+                </description>
+            <enclosure length="54640317" type="audio/mpeg" url="https://archive.org/download/20250311japan/20250311japan.mp3"/> <guid isPermaLink="false">https://archive.org/download/20250311japan/20250311japan.mp3</guid>
+            <pubDate>Thu, 13 March 2025 01:00:00 PDT</pubDate>
+            <itunes:explicit>true</itunes:explicit>
+        </item>
 
         <!-- Next episode -->
 
