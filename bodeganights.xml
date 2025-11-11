@@ -91,6 +91,31 @@
         Next episode -->
 
 
+      
+                			
+                		<item>
+                			<itunes:episodeType>full</itunes:episodeType>
+                			<title>Bodega Nights - Yokohama Aquariums, Philippine Floods, and the End of Chronological Feeds</title>
+                			<description>A bunch of friends get together every now and then. This podcast makes sure it happens. Welcome to Bodega Nights. More at <![CDATA[ <a href="http://channelfourteen.com">http://channelfourteen.com</a> ]]></description>
+                			<enclosure
+                				length="38824705" 
+                				type="audio/mpeg" 
+                				url="https://archive.org/download/20251109typhoon/20251109typhoon.mp3" />
+                			<guid isPermaLink="false">https://archive.org/download/20251109typhoon/20251109typhoon.mp3</guid>
+                			<pubDate>Tue, 11 November 2025 05:00:00 PDT</pubDate>
+                			<itunes:explicit>true</itunes:explicit>
+                			<psc:chapters version="1.2" xmlns:psc="http://podlove.org/simple-chapters">
+                				<psc:chapter start="0" title="Intro" />
+                				<psc:chapter start="0:56" title="The Yokohama Aquarium" />
+                				<psc:chapter start="8:57" title="Storms and floods" />
+                				<psc:chapter start="27:55" title="The day I realized humanity is screwed" />
+                                <psc:chapter start="39:16" title="Storm preparedness" />
+                			</psc:chapters>			
+                		</item>		
+                	
+          <!-- Next episode -->
+
+
             <item><itunes:episodeType>
             full
             </itunes:episodeType><title>
